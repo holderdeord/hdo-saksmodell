@@ -285,3 +285,5 @@ footer {
     color:#444;
   }
 }
+
+#spinner { float: right; display: none; }

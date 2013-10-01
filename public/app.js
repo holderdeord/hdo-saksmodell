@@ -3,13 +3,28 @@ angular.module('app', ['ngResource', 'ngHttp']);
 function AppController($scope, $http){
   $scope.issue = null;
 
+  $scope.spinner = function (show) {
+    var el = document.getElementById('spinner');
+
+    if (show) {
+      el.style.display = 'inline';
+    } else {
+      el.style.display = 'none';
+    }
+  }
+
+  $scope.spinner(true);
   $http.get('/issues').then(function (response) {
     $scope.issueNames = response.data;
+    $scope.spinner(false);
   })
 
   $scope.openIssue = function (name) {
+    $scope.issue = null;
+    $scope.spinner(true);
     $http.get('/issues/' + name).then(function (response) {
       $scope.issue = response.data.data;
+      $scope.spinner(false);
     })
   }
 
@@ -58,12 +73,12 @@ function AppController($scope, $http){
         var againstCount = stats.against || 0;
         var forCount = stats.for || 0;
 
-        if(forCount > againstCount) {
+        if(forCount > againstCount && result.indexOf(partyName) == -1) {
           result.push(partyName);
         }
       });
     });
 
-    return result.length ? result.join(',') : '???';
+    return result.length ? result.sort().join(',') : '???';
   }
 }
