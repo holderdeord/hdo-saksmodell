@@ -6,6 +6,8 @@
   <div ng-show="issue">
     <hr>
 
+    <input type="button" ng-click="save(issue)" style="float: right;" value="Save">
+
     <h2>{{issue.title}}</h2>
     <p>{{issue.description}}</p>
 
@@ -17,6 +19,7 @@
           <th>Tittel</th>
           <th>Kommentar</th>
           <th>Partier</th>
+          <th>Koblede avstemninger</th>
         </tr>
       </thead>
 
@@ -25,8 +28,9 @@
           <td>{{position.title}}</td>
           <td>{{position.explanation}}</td>
           <td>
-            <p>{{getPartyList(position)}} vs {{getPartyList(position)}}</p>
+            <p>{{getPartyList(position)}} <strong>vs</strong> {{getCalculatedPartyList(position)}}</p>
           </td>
+          <td>{{getVoteCountForPosition(position)}}</td>
         </tr>
       </tbody>
     </table>
@@ -47,10 +51,8 @@
           <td>{{vote.vote.time | date}}</td>
           <td>{{vote.title}}</td>
           <td>
-            <select ng-model="votePositions">
-              <option
-                ng-repeat="position in getPositions(issue)"
-                value="{{position.id}}">{{position.title}}</option>
+            <select ng-model="vote.position" ng-options="position.title for position in getPositions(issue)">
+              <option value="">--velg posisjon--</option>
             </select>
           </td>
         </tr>
