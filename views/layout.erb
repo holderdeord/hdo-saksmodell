@@ -1,16 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" ng-app>
   <head>
     <meta charset="utf-8">
 
     <link rel="stylesheet" href="/styles.css" type="text/css" media="screen" title="no title" charset="utf-8">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
   </head>
 
   <body>
-    <h1>Saksmodell</h1>
-    <hr>
+    <div class="wrapper">
+      <h1>Saksmodell</h1>
+      <hr>
 
-    <%= yield %>
+      <%= yield %>
+    </div>
+
+    <footer>
+      <%= revision %>
+    </footer>
+
   </body>
+
+  <script src="/app.js"></script>
 </html>

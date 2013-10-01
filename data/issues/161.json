@@ -1,0 +1,1650 @@
+{
+  "description": "Jernbaneutbygging finansieres i dag gjennom årlige bevilgninger på statsbudsjettet. Dette er en oversikt over partienes foreslåtte investeringer i jernbane, enten gjennom økte bevilgninger over statsbudsjettet, eller gjennom å opprette egne investeringsfond for jernbane. ",
+  "slug": "investere-mer-i-jernbaneutbygging",
+  "title": "Investere mer i jernbaneutbygging",
+  "vote_connections": [
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2012][1] foreslår FrP å opprette et jernbanefond på 100 mrd. kr. Avkastningen skal investeres av et nytt selskap, Jernbane SF. Totalt foreslår FrP å bevilge 3,4 mrd. mer i forhold til regjeringens forslag til statsbudsjett. \r\n\r\n  [1]: http://www.frp.no/filestore/Alternativtbudsjett2012FrPPDF.pdf \r\n",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette jernbanefond på 100 mrd. kr (FrPs alternative statsbudsjett 2012)",
+      "vote_id": 936,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 80,
+        "enacted": false,
+        "external_id": "1555",
+        "for_count": 22,
+        "personal": true,
+        "slug": "1322179808ne",
+        "subject": "Forslag nr. 6 - 68 på vegne av FrP.",
+        "time": "2011-11-25T00:10:08Z",
+        "stats": {"approve":22,"against":80,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"absent":19,"for":22},"Sosialistisk Venstreparti":{"against":8,"absent":3},"Arbeiderpartiet":{"against":40,"absent":24},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"against":6}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med behandlingen av regjeringens forslag til [tilleggsbevilgninger og omprioriteringer i statsbudsjettet for 2010][1] foreslår Venstre å øke bevilgningene til investeringer på jernbanen med 300 mill. kr, samt å øke bevilgningen til byggingen av dobbeltsporet jernbane på strekningen Oslo-Ski med 89 mill. kr. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/6144650/PDFS/PRP200920100125000DDDPDFS.pdf\r\n  [2]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2009-2010/inns-200910-350.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 389 mill. kr mer til jernbaneutbygging (Venstres forslag til omprioriteringer og tilleggsbevilgninger for 2010)",
+      "vote_id": 3531,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 4,
+        "against_count": 163,
+        "enacted": false,
+        "external_id": "2010-06-18 16:40:51 +0200:1",
+        "for_count": 2,
+        "personal": true,
+        "slug": "1276872051ne",
+        "subject": "Forslag nr. 85–104 fra Venstre",
+        "time": "2010-06-18T14:40:51Z",
+        "stats": {"approve":2,"against":163,"absent":4,"parties":{"H\u00f8yre":{"against":29,"absent":1},"Fremskrittspartiet":{"against":41},"Sosialistisk Venstreparti":{"against":10,"absent":1},"Arbeiderpartiet":{"against":63,"absent":1},"Senterpartiet":{"against":10,"absent":1},"Venstre":{"for":2},"Kristelig Folkeparti":{"against":10}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2010][1] foreslår FrP å opprette statlig infrastrukturfond som skal finansiere blant annet byggingen av jernbane. I tillegg skal avkastningen av fondet finansiere rentekompensasjon for statlige lån tatt opp av de ulike etatene som bygger ut infrastruktur. FrP anslår at ordningen med fond kan tillate en satsing på jernbane på 6,6 mrd. kr. i 2010.\r\n\r\n\r\n  [1]: http://images.bt.no/btno/multimedia/archive/00617/Frp-Alternativtbuds_617593a.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et samferdselsfond på 300 mrd. kr (Frps alternative statsbudsjett 2010) ",
+      "vote_id": 2903,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 128,
+        "enacted": false,
+        "external_id": "2009-11-26 00:28:12 +0100:6",
+        "for_count": 41,
+        "personal": true,
+        "slug": "1259191692ne",
+        "subject": "Forslag nr. 5-53 fra Fremskrittspartiet",
+        "time": "2009-11-25T23:28:12Z",
+        "stats": {"approve":41,"against":128,"absent":0,"parties":{"H\u00f8yre":{"against":30},"Fremskrittspartiet":{"for":41},"Sosialistisk Venstreparti":{"against":11},"Arbeiderpartiet":{"against":64},"Senterpartiet":{"against":11},"Venstre":{"against":2},"Kristelig Folkeparti":{"against":10}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2010][1] foreslår Høyre å opprette et infrastrukturfond på 50 mrd. kr. Fondet skal finansiere vedlikehold av vei og jernbane.\r\n\r\nHøyre foreslår samtidig å avvikle togmonopolet gjennom mer konkurranseutsetting. Dette skal sikre mer midler til jernbaneutbygging.\r\n\r\n  [1]: http://www.hoyre.no/filestore/Filer/Politikkdokumenter/Alternative_statsbudsjett/Hyresalternativestatsbudsjett2010.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et infrastrukturfond for vedlikehold (Høyres alternative statsbudsjett 2010)",
+      "vote_id": 2900,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 139,
+        "enacted": false,
+        "external_id": "2009-11-26 00:26:57 +0100:3",
+        "for_count": 30,
+        "personal": true,
+        "slug": "1259191617ne",
+        "subject": "Forslag nr. 57 fra Høyre",
+        "time": "2009-11-25T23:26:57Z",
+        "stats": {"approve":30,"against":139,"absent":0,"parties":{"H\u00f8yre":{"for":30},"Fremskrittspartiet":{"against":41},"Sosialistisk Venstreparti":{"against":11},"Arbeiderpartiet":{"against":64},"Senterpartiet":{"against":11},"Venstre":{"against":2},"Kristelig Folkeparti":{"against":10}}}
+      }
+    },
+    {
+      "comment": "Regjeringen foreslår å bevilge totalt 3,9 mrd. kr til investeringer i jernbaneutbygging på statsbudsjettet for 2010. 130 millioner av disse settes av til en ny post for utbygging av dobbeltspor mellom Oslo og Ski. Totalt økes budsjettet med på 0,8 mrd kr fra 2009.\r\n\r\nLes innstillingen fra Samferdselsdepartmentet [her.][1]\r\n\r\n\r\n  [1]: http://www.statsbudsjettet.no/upload/Statsbudsjett_2010/dokumenter/pdf/ud.pdf",
+      "matches": true,
+      "proposition_type": "national_budget_committee_proposition",
+      "title": "Bevilge 3,9 mrd. kr til jernbaneutbygging i 2010",
+      "vote_id": 3023,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 76,
+        "against_count": 21,
+        "enacted": true,
+        "external_id": "2009-12-10 23:09:56 +0100:6",
+        "for_count": 72,
+        "personal": true,
+        "slug": "1260482996e",
+        "subject": "Innstilling fra transport- og kommunikasjonskomiteen om bevilgninger på statsbudsjettet for 2010",
+        "time": "2009-12-10T22:09:56Z",
+        "stats": {"approve":72,"against":21,"absent":76,"parties":{"H\u00f8yre":{"for":17,"absent":13},"Fremskrittspartiet":{"against":21,"absent":20},"Sosialistisk Venstreparti":{"for":7,"absent":4},"Arbeiderpartiet":{"absent":28,"for":36},"Senterpartiet":{"absent":6,"for":5},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"for":6}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2011][1] foreslår FrP å bevilge totalt 6,8 mrd. kr til jernbane, mot regjeringens 4,2 mrd. kr. Denne bevilgningen er imidlertid avhengig av en rekke andre endringer på statsbudsjettet og måten samferdsel finansieres. FrP ønsker å opprette et infrastrukturfond på FrP totalt 300 mrd. kr, som partiet mener vil gi tilstrekkelig avkastning til å bruke 6,8 mrd. kr på jernbaneutbygging i 2011.\r\n\r\n\r\n  [1]: http://www.frp.no/filestore/Alternativtbudsjett2011.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "\r\nOpprette samferdselsfond på 300 mrd. kr (FrPs alternative statsbudsjett 2011)",
+      "vote_id": 1649,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 78,
+        "enacted": false,
+        "external_id": "2010-11-26 01:31:53.717n",
+        "for_count": 24,
+        "personal": true,
+        "slug": "1290731513ne",
+        "subject": "Forslag nr. 4 - 71 på vegne av FrP.",
+        "time": "2010-11-26T00:31:53Z",
+        "stats": {"approve":24,"against":78,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"absent":17,"for":24},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":25,"against":39},"Venstre":{"absent":1,"against":1},"Kristelig Folkeparti":{"absent":4,"against":6},"Senterpartiet":{"absent":4,"against":7}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2012][1] foreslår KrF å bevilge 375 mill. kr mer til jernbane sammenlignet med regjeringens forslag til statsbudsjett. Det opplyses imidlertid ikke om hvilke poster disse bevilgningene går til, og det er derfor uklart om de går til nyinvesteringer eller til vedlikehold av eksisterende linjer. \r\n\r\nKrF går for øvrig også inn for å opprette et infrastrukturfond på 50 mrd. kr for å bygge ut vei og jernbane, men presiserer ikke dette nærmere.\r\n\r\n\r\n  [1]: http://www.krf.no/ikbViewer/Content/66575/KrFsAlternativeStatsbudsjett2012.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette infrastrukturfond på 50 mrd. kr og bevilge 375 mill. kr mer enn regjeringen (KrFs alternative statsbudsjett 2012) ",
+      "vote_id": 934,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 68,
+        "against_count": 95,
+        "enacted": false,
+        "external_id": "1553",
+        "for_count": 6,
+        "personal": true,
+        "slug": "1322179771ne",
+        "subject": "Forslag nr. 70 på vegne av KrF.",
+        "time": "2011-11-25T00:09:31Z",
+        "stats": {"approve":6,"against":95,"absent":68,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"absent":19,"against":22},"Sosialistisk Venstreparti":{"against":8,"absent":3},"Arbeiderpartiet":{"against":39,"absent":25},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"for":6}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med fremleggelsen av revidert nasjonalbudsjett for 2010 og behandlingen av r[egjeringens forslag til omprioriteringer og tilleggsbevilgninger,][1] foreslår FrP å øke bevilgningen til investeringer med 100 mill. kr. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/6144650/PDFS/PRP200920100125000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2009-2010/inns-200910-350.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Øke bevilgningen til investeringer med 100 mill. kr (FrPs forslag til revidert nasjonalbudsjett 2010)",
+      "vote_id": 3537,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 128,
+        "enacted": false,
+        "external_id": "2010-06-18 16:43:24 +0200:8",
+        "for_count": 41,
+        "personal": true,
+        "slug": "1276872204ne",
+        "subject": "Det voteres over forslagene nr. 25–46, fra Fremskrittspartiet.",
+        "time": "2010-06-18T14:43:24Z",
+        "stats": {"approve":41,"against":128,"absent":0,"parties":{"H\u00f8yre":{"against":30},"Fremskrittspartiet":{"for":41},"Sosialistisk Venstreparti":{"against":11},"Arbeiderpartiet":{"against":64},"Senterpartiet":{"against":11},"Venstre":{"against":2},"Kristelig Folkeparti":{"against":10}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2010][1] foreslår KrF å bevilge 375 mill. kr. mer enn regjeringen gjør i sitt budsjettforslag. Det er imidlertid ikke klart om disse midlene er ment å få til nye investeringer eller også drift og vedlikehold.\r\n\r\n\r\n  [1]: http://www.krf.no/ikbViewer/Content/31308/KrFs%20alternative%20budsjett%20for%202010.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 375 mill. kr. mer enn regjeringen (KrFs alternative statsbudsjett 2010)",
+      "vote_id": 2899,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 159,
+        "enacted": false,
+        "external_id": "2009-11-26 00:26:34 +0100:2",
+        "for_count": 10,
+        "personal": true,
+        "slug": "1259191594ne",
+        "subject": "Forslag nr. 58–61 fra Kristelig Folkeparti",
+        "time": "2009-11-25T23:26:34Z",
+        "stats": {"approve":10,"against":159,"absent":0,"parties":{"H\u00f8yre":{"against":30},"Fremskrittspartiet":{"against":41},"Sosialistisk Venstreparti":{"against":11},"Arbeiderpartiet":{"against":64},"Senterpartiet":{"against":11},"Venstre":{"against":2},"Kristelig Folkeparti":{"for":10}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2010][1] foreslår Venstre å bevilge 782,7 mill. kr. mer enn regjeringen gjør i sitt budsjettforslag. \r\n\r\n\r\n  [1]: http://www.venstre.no/files/sentralt/sentralt/venstre2010.doc",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 782,7 mill. kr. mer enn regjeringen (Venstres alternative statsbudsjett 2010)",
+      "vote_id": 2898,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 161,
+        "enacted": false,
+        "external_id": "2009-11-26 00:26:00 +0100:1",
+        "for_count": 8,
+        "personal": true,
+        "slug": "1259191560ne",
+        "subject": "Forslag nr. 62-64 fra Venstre",
+        "time": "2009-11-25T23:26:00Z",
+        "stats": {"approve":8,"against":161,"absent":0,"parties":{"H\u00f8yre":{"against":29,"for":1},"Fremskrittspartiet":{"against":38,"for":3},"Sosialistisk Venstreparti":{"against":11},"Arbeiderpartiet":{"against":64},"Senterpartiet":{"against":11},"Venstre":{"for":2},"Kristelig Folkeparti":{"against":8,"for":2}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2011][1] foreslår Venstre å bevilge 850 mill. kr mer enn regjeringen til jernbaneinvesteringer. Disse er knyttet til Venstres eget NTP-opplegg, men dette er ikke nærmere spesifisert.\r\n\r\n\r\n  [1]: http://www.venstre.no/files/sentralt/Venstre_alt_budsjett_2011_151110.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 850 mill. kr mer enn regjeringen til jernbaneutbygging (Venstres alternative statsbudsjett 2011)",
+      "vote_id": 1645,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 69,
+        "against_count": 98,
+        "enacted": false,
+        "external_id": "2010-11-26 01:30:39.457n",
+        "for_count": 2,
+        "personal": true,
+        "slug": "1290731439ne",
+        "subject": "Forslag nr. 80 - 83 på vegne av V.",
+        "time": "2010-11-26T00:30:39Z",
+        "stats": {"approve":2,"against":98,"absent":69,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"absent":18,"against":23},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":25,"against":38,"for":1},"Venstre":{"absent":1,"for":1},"Kristelig Folkeparti":{"absent":4,"against":6},"Senterpartiet":{"absent":5,"against":6}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2013][1] foreslår KrF å opprette et infrastrukturfond på 50 mrd. kr til å finansiere store infrastrukturprosjekter. De foreslår også å bevilge 550 mill. kr mer enn regjeringen til jernbane. Det opplyses imidlertid ikke hvilke budsjettposter disse midlene skal gå til, og det er derfor uklart hvorvidt partiet prioriterer nye investeringer eller vedlikehold.\r\n\r\n\r\n[1]: http://www.krf.no/ikbViewer/Content/71948/KrFs%20alternative%20statsbudsjett%20for%202013.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 550 mill. kr mer enn regjeringen til jernbaneutbygging (KrFs alternative statsbudsjett 2013)",
+      "vote_id": 1133,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 96,
+        "enacted": false,
+        "external_id": "2806",
+        "for_count": 6,
+        "personal": true,
+        "slug": "1354058613ne",
+        "subject": "Forslag nr. 59 og 60 på vegne av KrF.",
+        "time": "2012-11-27T23:23:33Z",
+        "stats": {"approve":6,"against":96,"absent":67,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"absent":17,"against":23,"for":1},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":23,"against":41},"Senterpartiet":{"absent":5,"against":6},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":5,"for":5}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2011][1] foreslår KrF å bevilge 170 mill. kr mer enn regjeringen til investeringer i jernbane. 45 mill. kr av dette er satt av til spesifiserte utbyggingsprosjekter.\r\n\r\n\r\n  [1]: http://www.krf.no/ikbViewer/Content/43634/KrFs%20alternative%20budsjett%202011.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 170 mill. kr mer enn regjeringen til jernbaneutbygging (KrFs alternative statsbudsjett 2011)",
+      "vote_id": 1646,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 96,
+        "enacted": false,
+        "external_id": "2010-11-26 01:30:59.543n",
+        "for_count": 6,
+        "personal": true,
+        "slug": "1290731459ne",
+        "subject": "Forslag nr. 74 - 79 på vegne av KrF.",
+        "time": "2010-11-26T00:30:59Z",
+        "stats": {"approve":6,"against":96,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"absent":17,"against":24},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":25,"against":39},"Venstre":{"absent":1,"against":1},"Kristelig Folkeparti":{"absent":4,"for":6},"Senterpartiet":{"absent":4,"against":7}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2013][1] foreslår Venstre å bevilge 558,5 mill. kr mer til investeringer i jernbane sammenlignet med regjeringen.\r\n\r\n\r\n  [1]: http://www.venstre.no/files/sentralt/venstres_alternative_budsjett_2013_endelig_versjon_201112.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 558 mill. kr mer enn regjeringen til jernbaneutbygging (Venstres alternative statsbudsjett 2013)",
+      "vote_id": 1132,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 100,
+        "enacted": false,
+        "external_id": "2805",
+        "for_count": 2,
+        "personal": true,
+        "slug": "1354058597ne",
+        "subject": "Forslag nr. 61 - 70 på vegne av V.",
+        "time": "2012-11-27T23:23:17Z",
+        "stats": {"approve":2,"against":100,"absent":67,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"absent":17,"against":24},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":23,"against":40,"for":1},"Senterpartiet":{"absent":5,"against":6},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"absent":5,"against":5}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2012][1] foreslår Venstre å bevilge 850 millioner kroner mer enn regjeringa til jernbaneinvesteringer. \r\n\r\n\r\n  [1]: http://www.venstre.no/files/sentralt/venstres_alternative_budsjett_2012.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 850 mill. kr mer enn regjeringen (Venstres alternative statsbudsjett 2012)",
+      "vote_id": 933,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 100,
+        "enacted": false,
+        "external_id": "1552",
+        "for_count": 2,
+        "personal": true,
+        "slug": "1322179754ne",
+        "subject": "Forslag nr. 71 - 76 på vegne av V.",
+        "time": "2011-11-25T00:09:14Z",
+        "stats": {"approve":2,"against":100,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"absent":19,"against":22},"Sosialistisk Venstreparti":{"against":7,"for":1,"absent":3},"Arbeiderpartiet":{"against":40,"absent":24},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"against":6}}}
+      }
+    },
+    {
+      "comment": "I sitt forslag til tilleggsbevilgninger og omprioriteringer i statsbudsjettet for 2013 foreslår FrP den samme økningen som regjeringen; 329 mill. kr. Se [komitéinnstillingen.][1] \r\n\r\n\r\n  [1]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/inns-201213-470.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 329 mill. kr ekstra til jernbaneutbygging i 2013 (FrPs forslag til revidert nasjonalbudsjett 2013)",
+      "vote_id": 4834,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 60,
+        "against_count": 86,
+        "enacted": false,
+        "external_id": "4388",
+        "for_count": 23,
+        "personal": true,
+        "slug": "1371820300ne",
+        "subject": "Forslag nr. 11 - 39 på vegne av FrP.",
+        "time": "2013-06-21T13:11:40Z",
+        "stats": {"approve":23,"against":86,"absent":60,"parties":{"H\u00f8yre":{"against":19,"absent":11},"Fremskrittspartiet":{"absent":17,"for":23,"against":1},"Sosialistisk Venstreparti":{"against":8,"absent":3},"Arbeiderpartiet":{"against":44,"absent":20},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I sitt forslag til tilleggsbevilgninger og omprioriteringer i statsbudsjettet for 2013 foreslår Høyre den samme økningen som regjeringen; 329 mill. kr. Se [komitéinnstillingen.][1] \r\n\r\n\r\n  [1]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/inns-201213-470.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 329 mill. kr ekstra i 2013 (Høyres forslag til revidert nasjonalbudsjett 2013)",
+      "vote_id": 4833,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 61,
+        "against_count": 89,
+        "enacted": false,
+        "external_id": "4387",
+        "for_count": 19,
+        "personal": true,
+        "slug": "1371820280ne",
+        "subject": "Forslag nr. 40 - 43 på vegne av H.",
+        "time": "2013-06-21T13:11:20Z",
+        "stats": {"approve":19,"against":89,"absent":61,"parties":{"H\u00f8yre":{"for":19,"absent":11},"Fremskrittspartiet":{"absent":18,"against":23},"Sosialistisk Venstreparti":{"against":8,"absent":3},"Arbeiderpartiet":{"against":44,"absent":20},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I sitt forslag til tilleggsbevilgninger og omprioriteringer i statsbudsjettet for 2013 foreslår KrF den samme økningen som regjeringen; 329 mill. kr. Se [komitéinnstillingen.][1] \r\n\r\n\r\n  [1]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/inns-201213-470.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 329 mill. kr ekstra i 2013 (KrFs forslag til revidert nasjonalbudsjett 2013)",
+      "vote_id": 4831,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 61,
+        "against_count": 102,
+        "enacted": false,
+        "external_id": "4385",
+        "for_count": 6,
+        "personal": true,
+        "slug": "1371820245ne",
+        "subject": "Forslag nr. 44 på vegne av KrF.",
+        "time": "2013-06-21T13:10:45Z",
+        "stats": {"approve":6,"against":102,"absent":61,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"absent":17,"against":24},"Sosialistisk Venstreparti":{"against":8,"absent":3},"Arbeiderpartiet":{"against":44,"absent":20},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"for":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative budsjett for 2013][1] foreslår Høyre å opprette et øremerket infrastrukturfond på 50 mrd. kr innenfor Statens pensjonsfond utland (SPU).\r\n\r\n\r\n  [1]: http://www.hoyre.no/filestore/Filer/Politikkdokumenter/Alternative_statsbudsjett/121116AlternativtSB2013.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et infrastrukturfond innenfor SPU på 50 mrd. kr (Høyres alternative statsbudsjett 2013)",
+      "vote_id": 1134,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 84,
+        "enacted": false,
+        "external_id": "2807",
+        "for_count": 18,
+        "personal": true,
+        "slug": "1354058629ne",
+        "subject": "Forslag nr. 58 på vegne av H.",
+        "time": "2012-11-27T23:23:49Z",
+        "stats": {"approve":18,"against":84,"absent":67,"parties":{"Fremskrittspartiet":{"against":24,"absent":17},"Arbeiderpartiet":{"against":41,"absent":23},"Sosialistisk Venstreparti":{"against":7,"absent":4},"H\u00f8yre":{"for":18,"absent":12},"Kristelig Folkeparti":{"against":5,"absent":5},"Senterpartiet":{"against":6,"absent":5},"Venstre":{"absent":1,"against":1}}}
+      }
+    },
+    {
+      "comment": "I sitt forslag til tilleggsbevilgninger og omprioriteringer i statsbudsjettet for 2013 foreslår Venstre å øke bevilgningen med 439 mill. kr, mot regjeringens forslag på 329 mill. kr. Se [komitéinnstillingen.][1] \r\n\r\n\r\n  [1]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/inns-201213-470.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Bevilge 439 mill. kr mer i 2013 (Venstres forslag til revidert nasjonalbudsjett 2013)",
+      "vote_id": 4829,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 60,
+        "against_count": 108,
+        "enacted": false,
+        "external_id": "4383",
+        "for_count": 1,
+        "personal": true,
+        "slug": "1371820208ne",
+        "subject": "Forslag nr. 45 på vegne av V.",
+        "time": "2013-06-21T13:10:08Z",
+        "stats": {"approve":1,"against":108,"absent":60,"parties":{"H\u00f8yre":{"against":19,"absent":11},"Fremskrittspartiet":{"absent":17,"against":24},"Sosialistisk Venstreparti":{"against":8,"absent":3},"Arbeiderpartiet":{"against":44,"absent":20},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med behandlingen av statsbudsjettet for 2013 foreslår KrF å opprette et Infrastrukturfond på 50 mrd. kr til å finansiere store infrastrukturprosjekter. Se [komitéinnstillingen][1].\r\n\r\n  [1]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/Inns-201213-005.pdf",
+      "matches": true,
+      "proposition_type": "opposition_proposition_budget",
+      "title": "Opprette et infrastrukturfond på 50 mrd. kr ",
+      "vote_id": 1433,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 76,
+        "against_count": 88,
+        "enacted": false,
+        "external_id": "3154",
+        "for_count": 5,
+        "personal": true,
+        "slug": "1355485374ne",
+        "subject": "Forslag nr. 9 på vegne av KrF.",
+        "time": "2012-12-14T11:42:54Z",
+        "stats": {"approve":5,"against":88,"absent":76,"parties":{"H\u00f8yre":{"absent":13,"against":17},"Fremskrittspartiet":{"absent":21,"against":20},"Sosialistisk Venstreparti":{"against":6,"absent":5},"Arbeiderpartiet":{"against":38,"absent":26},"Senterpartiet":{"absent":5,"against":6},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"for":5,"absent":5}}}
+      }
+    },
+    {
+      "comment": "Forslaget fremmes i forbindelse med [Trontaledebatten 2011][1]. FrP foreslår å opprette et infrastrukturfond på 500 mrd. kr hvis avkastning skal brukes til å finansiere infrastrukturinvesteringer.\r\n\r\n\r\n  [1]: http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2011-2012/111004/1/",
+      "matches": true,
+      "proposition_type": "opposition_proposal_throne",
+      "title": "Opprette et infrastrukturfond på 500 mrd. kr",
+      "vote_id": 1028,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 65,
+        "against_count": 80,
+        "enacted": false,
+        "external_id": "1463",
+        "for_count": 24,
+        "personal": true,
+        "slug": "1317768157ne",
+        "subject": "Forslag nr. 3 - 6 og 8 på vegne av FrP.",
+        "time": "2011-10-04T22:42:37Z",
+        "stats": {"approve":24,"against":80,"absent":65,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"absent":17,"for":24},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":23,"against":41},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"against":6},"Senterpartiet":{"absent":4,"against":7}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2012][1] foreslår Høyre å\r\nøremerke 50 mrd. kr innenfor Statens pensjonsfond utland (SPU) til et infrastrukturfond på 50 mrd. kr. Denne modellen påvirker ikke forvaltningen av SPU, men sikrer at avkastningen i større grad går til de formål som Stortinget i sin tid besluttet at avkastningen skulle brukes til. \r\n\r\n\r\n  [1]: http://www.hoyre.no/filestore/Filer/Politikkdokumenter/Alternative_statsbudsjett/Hyresalternativebudsjett2012.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et infrastrukturfond innenfor SPU (Høyres alternative statsbudsjett 2012)",
+      "vote_id": 935,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 84,
+        "enacted": false,
+        "external_id": "1554",
+        "for_count": 18,
+        "personal": true,
+        "slug": "1322179789ne",
+        "subject": "Forslag nr. 69 på vegne av H.",
+        "time": "2011-11-25T00:09:49Z",
+        "stats": {"approve":18,"against":84,"absent":67,"parties":{"Fremskrittspartiet":{"against":22,"absent":19},"Arbeiderpartiet":{"against":40,"absent":24},"Sosialistisk Venstreparti":{"against":8,"absent":3},"H\u00f8yre":{"for":18,"absent":12},"Kristelig Folkeparti":{"against":6,"absent":4},"Venstre":{"absent":1,"against":1},"Senterpartiet":{"against":7,"absent":4}}}
+      }
+    },
+    {
+      "comment": "Regjeringen foreslår å bevilge totalt 4,7 mrd. kr til jernbaneutbygging på statsbudsjettet for 2012. Det satset spesielt på utbygging i Osloområdet. Forslaget innebærer en økning på 0,5 mrd. kr fra 2011.\r\n\r\nLes innstillingen fra Samferdselsdepartmentet [her.][1]\r\n\r\n\r\n  [1]: http://www.statsbudsjettet.no/upload/Statsbudsjett_2012/dokumenter/pdf/sd/sd.pdf",
+      "matches": true,
+      "proposition_type": "national_budget_committee_proposition",
+      "title": "Bevilge 4,7 mrd. kr til jernbaneutbygging i 2012",
+      "vote_id": 834,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 66,
+        "against_count": 48,
+        "enacted": true,
+        "external_id": "1751",
+        "for_count": 55,
+        "personal": true,
+        "slug": "1323269054e",
+        "subject": "Rammeområde 17,med romertall  I  til og med XXIII (23)",
+        "time": "2011-12-07T14:44:14Z",
+        "stats": {"approve":55,"against":48,"absent":66,"parties":{"H\u00f8yre":{"absent":13,"against":17},"Fremskrittspartiet":{"against":24,"absent":17},"Sosialistisk Venstreparti":{"for":7,"absent":4},"Arbeiderpartiet":{"for":40,"absent":24},"Senterpartiet":{"for":8,"absent":3},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med fremleggelsen av revidert nasjonalbudsjett for 2012 og [regjeringens forslag til omprioriteringer og tilleggsbevilgninger][1], foreslår FrP å øke bevilgningen til jernbaneinvesteringer med 200 mill. kr, mot regjeringens forslag om å øke med 100 mil. kr. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/37884196/PDFS/PRP201120120111000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2011-2012/inns-201112-375.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Øke bevilgningen med 200 mill. kr (FrPs forslag til revidert nasjonalbudsjett 2012)",
+      "vote_id": 7,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 68,
+        "against_count": 79,
+        "enacted": false,
+        "external_id": "2672",
+        "for_count": 22,
+        "personal": true,
+        "slug": "1339764897ne",
+        "subject": "Forslag nr. 17 - 34 på vegne av FrP.",
+        "time": "2012-06-15T12:54:57Z",
+        "stats": {"approve":22,"against":79,"absent":68,"parties":{"H\u00f8yre":{"absent":11,"against":19},"Fremskrittspartiet":{"absent":19,"for":22},"Sosialistisk Venstreparti":{"absent":4,"against":7},"Arbeiderpartiet":{"absent":25,"against":39},"Senterpartiet":{"against":7,"absent":4},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med behandlingen av revidert nasjonalbudsjett og regjeringens forslag til [omprioriteringer og tilleggsbevilgninger for 2010][1] foreslår Høyre å øke bevilgningene på posten \"investeringer i linjen\" med 25 mill. kr. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/6144650/PDFS/PRP200920100125000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2009-2010/inns-200910-350.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Øke bevilgningen med 25 mill. kr (Høyres forslag til omprioriteringer og tilleggsbevilgninger 2010)",
+      "vote_id": 3534,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 139,
+        "enacted": false,
+        "external_id": "2010-06-18 16:42:32 +0200:5",
+        "for_count": 30,
+        "personal": true,
+        "slug": "1276872152ne",
+        "subject": "Forslag nr. 58-63 fra Høyre",
+        "time": "2010-06-18T14:42:32Z",
+        "stats": {"approve":30,"against":139,"absent":0,"parties":{"H\u00f8yre":{"for":30},"Fremskrittspartiet":{"against":41},"Sosialistisk Venstreparti":{"against":11},"Arbeiderpartiet":{"against":64},"Senterpartiet":{"against":11},"Venstre":{"against":2},"Kristelig Folkeparti":{"against":10}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med fremleggelsen av revidert nasjonalbudsjett for 2011 og behandlingen av [regjeringens forslag til omprioriteringer og tilleggsbevilgninger,][1] foreslår Venstre å øke bevilgningen på Jernbaneverkets post for investeringer med 250 mill. kr. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/16440030/PDFS/PRP201020110120000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2010-2011/inns-201011-420.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Øke tilskuddet til jernbaneinvesteringer med 250 milll. kr (Venstres forslag til revidert nasjonalbudsjett 2011)",
+      "vote_id": 2685,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 100,
+        "enacted": false,
+        "external_id": "2011-06-17 15:13:23.813n",
+        "for_count": 2,
+        "personal": true,
+        "slug": "1308316403ne",
+        "subject": "Forslag nr. 55 - 78 på vegne av V.",
+        "time": "2011-06-17T13:13:23Z",
+        "stats": {"approve":2,"against":100,"absent":67,"parties":{"H\u00f8yre":{"absent":14,"against":16},"Fremskrittspartiet":{"absent":16,"against":24,"for":1},"Sosialistisk Venstreparti":{"absent":3,"against":8},"Arbeiderpartiet":{"absent":24,"against":40},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4},"Senterpartiet":{"absent":5,"against":6}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med fremleggelsen av revidert nasjonalbudsjett for 2011, [foreslår][1] regjeringen å gi Samferdselsdepartementet en tilsagnsfullmakt med en maksimal ramme på 10 mill. kr. \r\nPengene skal finansiere en nyopprettet støtteordning for private sidespor og terminaler m.m. som forvaltes av Jernbaneverket. Samferdselsdepartementet skal kunne gi såkalt tilsagn om tilskudd for bygging av disse sporene og terminalene, hvilket betyr at byggingen påbegynnes og finansieres av det private selskapet i begynnelsen, men får utgiftene refundert i etterkant. Samferdselsdepartementet kan ikke gi tilsagn til mer finansiering enn at de nye lovnadene og allerede gitte lovnader holdes under totalt 10 mill. kr.\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/16440030/PDFS/PRP201020110120000DDDPDFS.pdf",
+      "matches": true,
+      "proposition_type": "revised_national_budget",
+      "title": "Gi Samferdselsdepartementet en tilsagnsfullmakt for spor- og terminalutbygging",
+      "vote_id": 2696,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 0,
+        "enacted": true,
+        "external_id": "2011-06-17 15:17:42.343j",
+        "for_count": 102,
+        "personal": false,
+        "slug": "1308316662e",
+        "subject": "Det voteres over innstillingen romertallene I - XVII",
+        "time": "2011-06-17T13:17:42Z",
+        "stats": {"approve":102,"against":0,"absent":67,"parties":{"H\u00f8yre":{"absent":14,"for":16},"Fremskrittspartiet":{"absent":16,"for":25},"Sosialistisk Venstreparti":{"absent":3,"for":8},"Arbeiderpartiet":{"absent":24,"for":40},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"for":6,"absent":4},"Senterpartiet":{"absent":5,"for":6}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med fremleggingen av revidert nasjonalbudsjett for 2011 og [regjeringens forslag til omprioriteringer og tilleggsbevilgninger][1], foreslår KrF å øke bevilgningen til jernbaneinvesteringer med 10 mill. kr. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/16440030/PDFS/PRP201020110120000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2010-2011/inns-201011-420.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Øke bevilgningene til jernbaneinvesteringer med 10 mill. kr (KrFs forslag til revidert nasjonalbudsjett 2011)",
+      "vote_id": 2686,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 96,
+        "enacted": false,
+        "external_id": "2011-06-17 15:13:40.063n",
+        "for_count": 6,
+        "personal": true,
+        "slug": "1308316420ne",
+        "subject": "Forslag nr. 45 - 54 på vegne av KrF.",
+        "time": "2011-06-17T13:13:40Z",
+        "stats": {"approve":6,"against":96,"absent":67,"parties":{"H\u00f8yre":{"absent":15,"against":15},"Fremskrittspartiet":{"absent":16,"against":25},"Sosialistisk Venstreparti":{"absent":3,"against":8},"Arbeiderpartiet":{"absent":24,"against":40},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"for":6,"absent":4},"Senterpartiet":{"absent":4,"against":7}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2013][1] foreslår FrP å opprette et jernbanefond på 100 mrd. kr. Avkastningen skal investeres av et nytt selskap, Jernbane SF, og FrP anslår at dette selskapet vil kunne investere 1 mrd. kr mer i jernbane i 2013 enn regjeringens forslag.\r\n\r\n  [1]: http://www.frp.no/filestore/FrPsalternativebudsjett2013v2.pdf\r\n",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et jernbanefond på 100 mrd. kr i 2013 (FrPs alternative statsbudsjett 2013)",
+      "vote_id": 1135,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 78,
+        "enacted": false,
+        "external_id": "2808",
+        "for_count": 24,
+        "personal": true,
+        "slug": "1354058646ne",
+        "subject": "Forslag nr. 6 - 57 på vegne av FrP.",
+        "time": "2012-11-27T23:24:06Z",
+        "stats": {"approve":24,"against":78,"absent":67,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"absent":17,"for":24},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":23,"against":41},"Senterpartiet":{"absent":5,"against":6},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":5,"against":5}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med behandlingen av statsbudsjettet for 2013 foreslår FrP å opprette et jernbanefond på 100 mrd. kr til bygging av sammenhengende dobbeltspor på strekningene Oslo–Halden, Oslo–Skien og Oslo–Lillehammer samt kryssingsspor for lange godstog, og opprustning av andre jernbanestrekninger over hele landet.\r\n\r\nFrP foreslår videre å opprette et veifond på 300. mrd. kr. til riksveiinvesteringer på europaveiene og andre veier av nasjonal betydning og et Storbyfond på 100 mrd. kr. til vei- og kollektivbasert infrastruktur i Oslo, Stavanger, Bergen og Trondheim. Se [komitéinnstillingen.][1]\r\n\r\n\r\n  [1]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/Inns-201213-005.pdf",
+      "matches": true,
+      "proposition_type": "opposition_proposition_budget",
+      "title": "Opprette et jernbanefond på 100 mrd. kr i 2013",
+      "vote_id": 1435,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 76,
+        "against_count": 73,
+        "enacted": false,
+        "external_id": "3156",
+        "for_count": 20,
+        "personal": true,
+        "slug": "1355485418ne",
+        "subject": "Forslag nr. 4 - 7 på vegne av FrP.",
+        "time": "2012-12-14T11:43:38Z",
+        "stats": {"approve":20,"against":73,"absent":76,"parties":{"H\u00f8yre":{"absent":13,"against":17},"Fremskrittspartiet":{"absent":21,"for":20},"Sosialistisk Venstreparti":{"against":6,"absent":5},"Arbeiderpartiet":{"against":38,"absent":26},"Senterpartiet":{"absent":5,"against":6},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":5,"absent":5}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med behandlingen av statsbudsjettet for 2011 foreslår Høyre å opprette et infrastrukturfond på 50 mrd. kr. De ønsker å finne nye løsninger som kan gi raskere og\r\nmer rasjonell utbygging, drift og vedlikehold av\r\nanlegg innenfor samferdselssektoren. Se [komitéinnstillingen.][1]\r\n\r\n\r\n  [1]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2010-2011/inns-201011-005.pdf",
+      "matches": true,
+      "proposition_type": "opposition_proposition_budget",
+      "title": "Opprette et infrastrukturfond på 50 mrd. i 2011",
+      "vote_id": 1941,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 84,
+        "enacted": false,
+        "external_id": "2010-12-15 17:40:16.013n",
+        "for_count": 18,
+        "personal": true,
+        "slug": "1292431216ne",
+        "subject": "Forslag nr. 11 på vegne av H.",
+        "time": "2010-12-15T16:40:16Z",
+        "stats": {"approve":18,"against":84,"absent":67,"parties":{"H\u00f8yre":{"for":18,"absent":12},"Fremskrittspartiet":{"against":23,"absent":18},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":25,"against":39},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4},"Senterpartiet":{"absent":3,"against":8}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med behandlingen av statsbudsjettet for 2010 foreslår Høyre å opprette et infrastrukturfond på 50 mrd. kr. Avkastningen av fondet skal brukes til vedlikehold av vei- og jernbanenettet. Se [komitéinnstillingen.][1]\r\n\r\n\r\n  [1]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2009-2010/inns-200910-005.pdf",
+      "matches": true,
+      "proposition_type": "opposition_proposition_budget",
+      "title": "Opprette et infrastrukturfond på 50 mrd. kr i 2010",
+      "vote_id": 3071,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 66,
+        "against_count": 85,
+        "enacted": false,
+        "external_id": "2009-12-15 21:49:41 +0100:3",
+        "for_count": 18,
+        "personal": true,
+        "slug": "1260910181ne",
+        "subject": "Forslag nr. 2 fra Høyre",
+        "time": "2009-12-15T20:49:41Z",
+        "stats": {"approve":18,"against":85,"absent":66,"parties":{"H\u00f8yre":{"absent":12,"for":18},"Fremskrittspartiet":{"against":24,"absent":17},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"against":40,"absent":24},"Senterpartiet":{"absent":4,"against":7},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "Forslaget fremmes av KrF i forbindelse med behandlingen av [Nasjonal transportplan for perioden 2014-2023][1]. KrF kritiserer regjeringen for å ikke ha brukt handlingsrommet som handlingsregelen skulle gi til å prioritere tiltak som\r\nstyrker produktiviteten og vekstevnen på lengre sikt, men heller til å gjennomføre standardøkninger og øke utgiftene på flere områder. De foreslår derfor å opprette et infrastrukturfond med en ramme på 50 mrd. kroner, slik at større utbygginger i større grad gjennomføres helhetlig og med mer forutsigbar finansiering.  Avkastningen fra fondet skal komme i tillegg til ordinære bevilgninger. Se [komitéinnstilingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/38293551/PDFS/STM201220130026000DDDPDFS.pdf\r\n  [2]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/Inns-201213-450.pdf",
+      "matches": true,
+      "proposition_type": "opposition_proposition_parliamentary_report",
+      "title": "Opprette infrastrukturfond på 50 mrd. kr",
+      "vote_id": 4775,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 96,
+        "enacted": false,
+        "external_id": "4202",
+        "for_count": 6,
+        "personal": true,
+        "slug": "1371593919ne",
+        "subject": "Forslag nr. 86 - 88 på vegne av KrF.",
+        "time": "2013-06-18T22:18:39Z",
+        "stats": {"approve":6,"against":96,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"against":23,"absent":18},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":24,"against":40},"Senterpartiet":{"absent":4,"against":7},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"for":6}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2011][1] foreslår Høyre å opprette et infrastrukturfond på 50. mrd. kr. Avkastningen fra fondet skal komme i tillegg til de årlige bevilgningene på statsbudsjettet og brukes til vedlikehold av vei- og jernbanenettet.\r\n\r\n\r\n  [1]: http://www.hoyre.no/filestore/Bilder/Ukjent_-_uformatert_-_usortert/Diverse_usortert/alternativt_budsjett_2011_fff-2.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et infrastrukturfond på 50 mrd. kr (Høyres alternative statsbudsjett 2011)",
+      "vote_id": 1648,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 84,
+        "enacted": false,
+        "external_id": "2010-11-26 01:31:34.507n",
+        "for_count": 18,
+        "personal": true,
+        "slug": "1290731494ne",
+        "subject": "Forslag nr. 72 på vegne av H.",
+        "time": "2010-11-26T00:31:34Z",
+        "stats": {"approve":18,"against":84,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"for":18},"Fremskrittspartiet":{"absent":17,"against":24},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":25,"against":39},"Venstre":{"absent":1,"against":1},"Kristelig Folkeparti":{"absent":4,"against":6},"Senterpartiet":{"absent":4,"against":7}}}
+      }
+    },
+    {
+      "comment": "Forslaget fremmes av FrP i forbindelse med behandlingen av [Nasjonal transportplan for perioden 2014-2023.][1] FrP foreslår å opprette et infrastrukturfond pålydende 500 mrd. kroner, der 75 pst. av avkastningen øremerkes samfunnsøkonomisk lønnsomme veiprosjekter og 25 pst. øremerkes samfunnsøkonomisk lønnsomme jernbaneprosjekter. Se [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/38293551/PDFS/STM201220130026000DDDPDFS.pdf\r\n  [2]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2012-2013/Inns-201213-450.pdf",
+      "matches": true,
+      "proposition_type": "opposition_proposition_parliamentary_report",
+      "title": "Opprette infrastrukturfond på 500 mrd. kr",
+      "vote_id": 4777,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 79,
+        "enacted": false,
+        "external_id": "4204",
+        "for_count": 23,
+        "personal": true,
+        "slug": "1371593959ne",
+        "subject": "Forslag nr. 3 - 18, 21, 23 - 27, 29 - 31, 33 - 46, 48 og 49 på vegne av FrP.",
+        "time": "2013-06-18T22:19:19Z",
+        "stats": {"approve":23,"against":79,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"for":23,"absent":18},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":24,"against":40},"Senterpartiet":{"absent":4,"against":7},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"absent":4,"against":6}}}
+      }
+    },
+    {
+      "comment": "Forslaget fremmes av Høyre i forbindelse med revidert nasjonalbudsjett for 2011. De foreslår å etablere et infrastrukturfond på 50 mrd. kr. Se [komitéinnstillingen.][1]\r\n\r\n\r\n  [1]: http://stortinget.no/Global/pdf/Innstillinger/Stortinget/2010-2011/inns-201011-420.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette infrastrukturfond på 50 mrd. kr (Høyres forslag til revidert nasjonalbudsjett 2011)",
+      "vote_id": 2688,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 66,
+        "against_count": 87,
+        "enacted": false,
+        "external_id": "2011-06-17 15:14:15.210n",
+        "for_count": 16,
+        "personal": true,
+        "slug": "1308316455ne",
+        "subject": "Forslag nr. 32 - 38 på vegne av H.",
+        "time": "2011-06-17T13:14:15Z",
+        "stats": {"approve":16,"against":87,"absent":66,"parties":{"H\u00f8yre":{"absent":14,"for":16},"Fremskrittspartiet":{"absent":16,"against":25},"Sosialistisk Venstreparti":{"absent":3,"against":8},"Arbeiderpartiet":{"absent":24,"against":40},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4},"Senterpartiet":{"absent":4,"against":7}}}
+      }
+    },
+    {
+      "comment": "I sitt [alternative statsbudsjett for 2011][1] foreslår FrP å bevilge totalt 6,8 mrd. kr til jernbane, mot regjeringens 4,2 mrd. kr. Denne bevilgningen er imidlertid avhengig av en rekke andre endringer på statsbudsjettet og måten samferdsel finansieres. FrP ønsker å opprette et infrastrukturfond på 60 mrd. kr. Fondet skal tilføres 60 mrd. kr hvert år fram til og med 2015, og dets avkastning, estimert til 15 mrd. kr årlig fra og med 2015 skal brukes til samferdselsutbygging.\r\n\r\n  [1]: http://www.frp.no/filestore/Alternativtbudsjett2011.pdf\r\n\r\n  [1]: http://www.frp.no/filestore/Alternativtbudsjett2011.pdf",
+      "matches": true,
+      "proposition_type": "alternate_national_budget",
+      "title": "Opprette et infrastrukturfond på 60 mrd. kr i 2011 (FrPs alternative statsbudsjett 2011)",
+      "vote_id": 1943,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 79,
+        "enacted": false,
+        "external_id": "2010-12-15 17:40:53.337n",
+        "for_count": 23,
+        "personal": true,
+        "slug": "1292431253ne",
+        "subject": "Forslag nr. 2 - 9 på vegne av FrP.",
+        "time": "2010-12-15T16:40:53Z",
+        "stats": {"approve":23,"against":79,"absent":67,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"for":23,"absent":18},"Sosialistisk Venstreparti":{"against":7,"absent":4},"Arbeiderpartiet":{"absent":25,"against":39},"Venstre":{"against":1,"absent":1},"Kristelig Folkeparti":{"against":6,"absent":4},"Senterpartiet":{"absent":3,"against":8}}}
+      }
+    },
+    {
+      "comment": "Regjeringen foreslår å bevilge totalt 6,1 mrd. kr til investeringer i jerbaneutbygging i statsbudsjettet for 2013. Utbygging av dobbeltspor på strekningen Oslo-Ski er en egen post på budsjettet som bevilges 827 mill. kr. De øvrige bevilgningene til jernbane er frie investeringsmidler til Jernbaneverket. Forslaget innebærer en økning på 1,4 mrd. kr fra 2012.\r\n\r\nLes innstillingen fra Samferdselsdepartmentet [her.][1]\r\n\r\n\r\n  [1]: http://www.statsbudsjettet.no/upload/Statsbudsjett_2013/dokumenter/pdf/sd.pdf",
+      "matches": true,
+      "proposition_type": "national_budget_committee_proposition",
+      "title": "Bevilge 6,1 mrd. kr til jernbaneutbygging i 2013",
+      "vote_id": 1290,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 70,
+        "against_count": 46,
+        "enacted": true,
+        "external_id": "2962",
+        "for_count": 53,
+        "personal": true,
+        "slug": "1354822293e",
+        "subject": "Stor bokstav A, romertallene I til og med XXII (22).",
+        "time": "2012-12-06T19:31:33Z",
+        "stats": {"approve":53,"against":46,"absent":70,"parties":{"H\u00f8yre":{"against":18,"absent":12},"Fremskrittspartiet":{"against":23,"absent":18},"Sosialistisk Venstreparti":{"absent":6,"for":5},"Arbeiderpartiet":{"absent":23,"for":41},"Senterpartiet":{"for":6,"absent":5},"Kristelig Folkeparti":{"absent":5,"against":5},"Venstre":{"absent":1,"for":1}}}
+      }
+    },
+    {
+      "comment": "Regjeringen foreslår å bevilge totalt 4,2 mrd. til investeringer i jernbaneutbygging på statsbudsjettet for 2011. 336 mill. kr av dette skal gå til prosjektet dobbeltspor Oslo-Ski. Bevilgningen inkluderer også 180 mill. kr til ombygging av Ski stasjon i forbindelse med ny grunnrutemodell for Østlandet, og 186,3 mill. kr til videre planlegging av Follobanen. Totalt foreslås det en økning på 0,3 mrd. kr fra 2010.\r\nLes innstillingen fra Samferdselsdepartmentet [her.][1]\r\n\r\n\r\n  [1]: http://www.statsbudsjettet.no/upload/Statsbudsjett_2011/dokumenter/pdf/sd/sd.pdf",
+      "matches": true,
+      "proposition_type": "national_budget_committee_proposition",
+      "title": "Bevilge 4,2 mrd. kr til jernbaneutbygging i 2011",
+      "vote_id": 1779,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 67,
+        "against_count": 43,
+        "enacted": true,
+        "external_id": "2010-12-08 19:52:17.247j",
+        "for_count": 59,
+        "personal": true,
+        "slug": "1291834337e",
+        "subject": "Stor bokstav A Rammeområde 17 romertall I til og med romertall XXII (22) er opptatt.",
+        "time": "2010-12-08T18:52:17Z",
+        "stats": {"approve":59,"against":43,"absent":67,"parties":{"H\u00f8yre":{"absent":12,"against":18},"Fremskrittspartiet":{"against":25,"absent":16},"Sosialistisk Venstreparti":{"for":7,"absent":4},"Arbeiderpartiet":{"for":38,"absent":26},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"for":6,"absent":4},"Senterpartiet":{"absent":4,"for":7}}}
+      }
+    },
+    {
+      "comment": "I sitt forslag til [omprioriteringer og tilleggsbevilgninger][1] i forbindelse med revidert nasjonalbudsjett for 2013, foreslår regjeringen å øke bevilgningen til investeringer i jernbaneutbygging med 329 mill. kr. \r\n\r\n\r\n  [1]: http://www.statsbudsjettet.no/upload/Revidert_2013/dokumenter/pdf/prop149.pdf",
+      "matches": true,
+      "proposition_type": "revised_national_budget",
+      "title": "Bevilge 329 mill. kr ekstra i 2013",
+      "vote_id": 4838,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 60,
+        "against_count": 0,
+        "enacted": true,
+        "external_id": "4392",
+        "for_count": 109,
+        "personal": false,
+        "slug": "1371820412e",
+        "subject": "romertallene I til og med XXIII (23).",
+        "time": "2013-06-21T13:13:32Z",
+        "stats": {"approve":109,"against":0,"absent":60,"parties":{"H\u00f8yre":{"for":19,"absent":11},"Fremskrittspartiet":{"absent":17,"for":24},"Sosialistisk Venstreparti":{"for":8,"absent":3},"Arbeiderpartiet":{"for":44,"absent":20},"Senterpartiet":{"for":7,"absent":4},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"for":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I forbindelse med fremleggelsen av revidert nasjonalbudsjett for 2012, [foreslår][1] regjeringen å øke bevilgningen til investeringer med 100 mill. kr. Se også [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/37884196/PDFS/PRP201120120111000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2011-2012/inns-201112-375.pdf",
+      "matches": true,
+      "proposition_type": "revised_national_budget",
+      "title": "Øke bevligningen med 100 mill. kr",
+      "vote_id": 14,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 68,
+        "against_count": 0,
+        "enacted": true,
+        "external_id": "2679",
+        "for_count": 101,
+        "personal": false,
+        "slug": "1339765044e",
+        "subject": "romertallene I, II, III, IV, V, VI, VII, VIII, IX, X og XI.",
+        "time": "2012-06-15T12:57:24Z",
+        "stats": {"approve":101,"against":0,"absent":68,"parties":{"H\u00f8yre":{"absent":11,"for":19},"Fremskrittspartiet":{"absent":19,"for":22},"Sosialistisk Venstreparti":{"absent":4,"for":7},"Arbeiderpartiet":{"absent":25,"for":39},"Senterpartiet":{"for":7,"absent":4},"Venstre":{"for":1,"absent":1},"Kristelig Folkeparti":{"for":6,"absent":4}}}
+      }
+    },
+    {
+      "comment": "I sitt forslag til [omprioriteringer og tilleggsbevilgninger][1] i forbindelse med revidert nasjonalbudsjett for 2010, foreslår regjeringen å kutte bevilgningene på posten \"investeringer i linjen\" med 50 mill. kr. Samtidig økes bevilgningen til utbyggingen av dobbeltspor mellom Oslo og Ski med 64 mill. kr. Se også [komitéinnstillingen.][2]\r\n\r\n\r\n  [1]: http://www.regjeringen.no/pages/6144650/PDFS/PRP200920100125000DDDPDFS.pdf\r\n  [2]: http://www.stortinget.no/Global/pdf/Innstillinger/Stortinget/2009-2010/inns-200910-350.pdf",
+      "matches": true,
+      "proposition_type": "revised_national_budget",
+      "title": "Øke investeringene med 14 mill. kr",
+      "vote_id": 4234,
+      "weight": 1.0,
+      "vote": {
+        "absent_count": 0,
+        "against_count": 0,
+        "enacted": true,
+        "external_id": "2010-06-18 16:46:00 +0200:17",
+        "for_count": 169,
+        "personal": false,
+        "slug": "1276872360e",
+        "subject": "Komiteens innstilling",
+        "time": "2010-06-18T14:46:00Z",
+        "stats": {"approve":169,"against":0,"absent":0,"parties":{"H\u00f8yre":{"for":30},"Fremskrittspartiet":{"for":41},"Sosialistisk Venstreparti":{"for":11},"Arbeiderpartiet":{"for":64},"Senterpartiet":{"for":11},"Venstre":{"for":2},"Kristelig Folkeparti":{"for":10}}}
+      }
+    }
+  ],
+  "promise_connections": [
+    {
+      "override": null,
+      "promise_id": 4953,
+      "status": "related",
+      "promise": {
+        "body": "FrP vil oppheve togmonopolet på persontransport slik at det åpnes for fri konkurranse på jernbanenettet.",
+        "external_id": "4965",
+        "general": true,
+        "page": 68,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 852,
+      "status": "for",
+      "promise": {
+        "body": "For å sikre bedre veier vil Høyre opprette et eget vedlikeholdsfond for vei og jernbane.",
+        "external_id": "852",
+        "general": false,
+        "page": 31,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "H",
+            "name": "Høyre"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 1794,
+      "status": "for",
+      "promise": {
+        "body": "KrF vil økte investeringer i jernbane, stamveinettet og i veiene i distrikts-Norge.",
+        "external_id": "1796",
+        "general": false,
+        "page": 76,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 9710,
+      "status": "related",
+      "promise": {
+        "body": "Ap vil prioritere jernbaneutbygging i intercity-triangelet i Østlandsområdet og i andre store byområder der jernbanetransporten kan dekke en stor del av økningen i transportbehovet.",
+        "external_id": "11137",
+        "general": true,
+        "page": 1,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "A",
+            "name": "Arbeiderpartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 9703,
+      "status": "related",
+      "promise": {
+        "body": "Ap vil gjennomføre et nasjonalt løft for investeringer, drift og vedlikehold av veg, jernbane og sjøveg.",
+        "external_id": "11130",
+        "general": true,
+        "page": 1,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "A",
+            "name": "Arbeiderpartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 9086,
+      "status": "related",
+      "promise": {
+        "body": "Fremskrittspartiet vil øremerke en del av den årlige avkastningen fra oljefondet til varig og forutsigbar investering i infrastruktur som veier, jernbane/kollektiv- og IKT-infrastruktur.",
+        "external_id": "10512",
+        "general": true,
+        "page": 74,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 9109,
+      "status": "related",
+      "promise": {
+        "body": "Utbygging av intercitytrianglet må gjennomføres raskt med oppgradert standard til dobbeltspor. Det må også legges opp til å bygge ut og ruste opp jernbanen også rundt de andre store byområdene i Norge.",
+        "external_id": "10535",
+        "general": true,
+        "page": 76,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 9112,
+      "status": "related",
+      "promise": {
+        "body": "FrP vil oppheve togmonopolet på persontransport slik at det åpnes for fri konkurranse på jernbanenettet.",
+        "external_id": "10538",
+        "general": true,
+        "page": 76,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 9117,
+      "status": "related",
+      "promise": {
+        "body": "Frp vil oppgradere jernbanenettet mellom de store byene og landsdelene til å tåle opp mot 250 km/t.",
+        "external_id": "10543",
+        "general": true,
+        "page": 76,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 8021,
+      "status": "related",
+      "promise": {
+        "body": "Høyre vil opprette et vedlikeholdsfond der avkastningen skal gå til opprustning av veier og jernbane.",
+        "external_id": "9438",
+        "general": true,
+        "page": 26,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "H",
+            "name": "Høyre"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 8066,
+      "status": "related",
+      "promise": {
+        "body": "Høyre vil bygge ut veier, jernbane og annen infrastruktur som er avgjørende for Norges konurransekraft, og ta i bruk nye utbyggingsmetoder som offentlig-privat samarbeid (OPS).",
+        "external_id": "9484",
+        "general": true,
+        "page": 32,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "H",
+            "name": "Høyre"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 11630,
+      "status": "related",
+      "promise": {
+        "body": "KrF vil ruste opp infrastrukturen på jernbane, og bygge ut viktige strekninger med dobbeltspor.",
+        "external_id": "13091",
+        "general": true,
+        "page": 89,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 10774,
+      "status": "related",
+      "promise": {
+        "body": "En større del av statsbudsjettet bør brukes til målrettede investeringer i infrastruktur som jernbane \nog vei og til oppbygging av humankapitalen gjennom økt satsing på utdanning, forskning og utvikling. En måte å gjøre dette på kan være gjennom å opprette egne fond innenfor samferdsel og forskning, der avkastningen fra disse fondene øremerkes til investeringer i den aktuelle sektoren.",
+        "external_id": "12217",
+        "general": true,
+        "page": 107,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 11633,
+      "status": "related",
+      "promise": {
+        "body": "KrF vil øke bevilgningene til jernbane for å bedre kvaliteten på både togmateriell og banestandard, blant annet ved flere krysningsspor.",
+        "external_id": "13094",
+        "general": true,
+        "page": 89,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 11665,
+      "status": "related",
+      "promise": {
+        "body": "KrF vil ha bedre togtilbud og opprusting av jernbanenettet. I første omgang må Intercitystrekningene omkring de store byene bygges ut.",
+        "external_id": "13126",
+        "general": true,
+        "page": 88,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 6625,
+      "status": "related",
+      "promise": {
+        "body": "SV jobber for en samlet transportsatsing for Nordområdene gjennom å starte planleggingen av dobbeltspor\nmellom Narvik og Kiruna, jernbane til Troms og toglinje mellom Kirkenes og Russland.",
+        "external_id": "8035",
+        "general": true,
+        "page": 127,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 5631,
+      "status": "related",
+      "promise": {
+        "body": "SV jobber for et helt nødvendig generasjonsskifte for toget: de neste 20 år bygge et nytt dobbeltsporet jernbanenett for lokaltog, lyntog og godstog. Første etappe blir fullføring av intercitytriangelet på Østlandet og dobbeltspor og moderne toglinjer i de andre storbyregionene innen 10 år. Nye linjer bygges for å inngå i et fremtidig lyntognett som vil binde sammen landsdelene.",
+        "external_id": "7039",
+        "general": true,
+        "page": 20,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 5765,
+      "status": "related",
+      "promise": {
+        "body": "SV jobber for å heve standarden på dagens jernbanenett.",
+        "external_id": "7174",
+        "general": true,
+        "page": 35,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 5623,
+      "status": "related",
+      "promise": {
+        "body": "SV vil prioritere jernbaneutbygging og kollektivløsninger i tettsteder og byer fremfor nye store veiprosjekter i sentrale strøk og utvidelse av kapasiteten til de store flyplassene i Sør-Norge.",
+        "external_id": "7031",
+        "general": true,
+        "page": 18,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 10545,
+      "status": "related",
+      "promise": {
+        "body": "Sp vil legge til rette for at pendlere i og rundt storbyene i større grad kan reise kollektivt, gjennom betydelige investeringer i jernbanenettet. Hyppige avganger og raskere tog gjør at flere har reell mulighet til å bosette seg der man ønsker.",
+        "external_id": "11984",
+        "general": true,
+        "page": 58,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "Sp",
+            "name": "Senterpartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 7026,
+      "status": "related",
+      "promise": {
+        "body": "Venstre vil øke investeringene til jernbanen kraftig ut fra dagens nivå gjennom en kombinasjon av overføringer på statsbudsjettet og prosjektfinansiering.",
+        "external_id": "8438",
+        "general": true,
+        "page": 35,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "V",
+            "name": "Venstre"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 7027,
+      "status": "related",
+      "promise": {
+        "body": "Venstre vil bygge et jernbanenett med dobbeltspor tilrettelagt for høye hastigheter (minst 250 km/t) og halvtimesfrekvens på togavgangene i Intercity-triangelet (Lillehammer, Halden, Skien) innen 2025.",
+        "external_id": "8439",
+        "general": true,
+        "page": 35,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "V",
+            "name": "Venstre"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 7032,
+      "status": "related",
+      "promise": {
+        "body": "Venstre vil bygge en ny jernbanelinje mellom Oslo og Hønefoss, oppgradere linjene mot Stockholm og elektrifisere Trønderbanen og Meråkerbanen.",
+        "external_id": "8444",
+        "general": true,
+        "page": 35,
+        "parliament_period_id": 18,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "V",
+            "name": "Venstre"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 1948,
+      "status": "for",
+      "promise": {
+        "body": "KrF vil øke bevilgningene til jernbane for å bedre kvaliteten på både togmateriell og banestandard, blant annet ved flere krysningsspor.",
+        "external_id": "1951",
+        "general": false,
+        "page": 95,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 2505,
+      "status": "for",
+      "promise": {
+        "body": "Venstre vil øke bevilgningene til jernbaneutbygging og kollektivtrafikk over statsbudsjettet.",
+        "external_id": "2513",
+        "general": false,
+        "page": 19,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "V",
+            "name": "Venstre"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 4549,
+      "status": "for",
+      "promise": {
+        "body": "FrP vil investere mer av statens overskudd i infrastruktur i Norge, herunder å etablere eget infrastrukturfond.",
+        "external_id": "4561",
+        "general": false,
+        "page": 10,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": 0,
+      "promise_id": 3972,
+      "status": "for",
+      "promise": {
+        "body": "I kommende periode vil SV trappe opp investeringene i jernbanen til 10 milliarder kroner per år.",
+        "external_id": "3984",
+        "general": false,
+        "page": 5,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 3973,
+      "status": "for",
+      "promise": {
+        "body": "I kommende planperiode vil SV prioritere å modernisere og utbedre jernbanenettet.",
+        "external_id": "3985",
+        "general": true,
+        "page": 5,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 4956,
+      "status": "related",
+      "promise": {
+        "body": "FrP vil at det legges bedre til rette for persontransport i befolkningstette områder, med dobbeltspor, økt frekvens og økte hastigheter.",
+        "external_id": "4968",
+        "general": false,
+        "page": 68,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 1947,
+      "status": "for",
+      "promise": {
+        "body": "KrF vil at infrastrukturen på jernbane må rustes opp, og viktige strekninger må bygges ut med dobbeltspor.",
+        "external_id": "1950",
+        "general": true,
+        "page": 95,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 1960,
+      "status": "related",
+      "promise": {
+        "body": "KrF vil sikre rasjonell fremdrift og rasjonell utnyttelse av ressurser innen samferdselssektoren, gjennom en mer langsiktig og forutsigbar finansieringsordning.",
+        "external_id": "1964",
+        "general": true,
+        "page": 95,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "KrF",
+            "name": "Kristelig Folkeparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 4933,
+      "status": "for",
+      "promise": {
+        "body": "FrP vil opprette et infrastrukturfond for varig og forutsigbar finansiering av målrettet og rasjonell utbygging av infrastrukturen.",
+        "external_id": "4945",
+        "general": false,
+        "page": 67,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "FrP",
+            "name": "Fremskrittspartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 848,
+      "status": "for",
+      "promise": {
+        "body": "For å sikre bedre veier vil Høyre sikre at en større del av avkastningen fra Pensjonsfondet utland igjen tas i bruk til investeringer i veier og annen samferdsel.",
+        "external_id": "848",
+        "general": false,
+        "page": 31,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "H",
+            "name": "Høyre"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 216,
+      "status": "for",
+      "promise": {
+        "body": "Ap vil prioritere kraftig opprustning og forbedring av dagens jernbanenett, noe som vil redusere reisetiden og øke avgangsfrekvensen for jernbane.",
+        "external_id": "216",
+        "general": true,
+        "page": 30,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "A",
+            "name": "Arbeiderpartiet"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 5313,
+      "status": "for",
+      "promise": {
+        "body": "Regjeringen vil styrke satsingen på jernbanen gjennom en økt satsing på vedlikehold og\nnyinvesteringer i tråd med Nasjonal transportplan og gjennom et økt statlig\nkjøp av togtjenester.",
+        "external_id": "5325",
+        "general": false,
+        "page": 26,
+        "parliament_period_id": 1,
+        "source": "Regjeringserklæring",
+        "parties": [
+          {
+            "external_id": "A",
+            "name": "Arbeiderpartiet"
+          },
+          {
+            "external_id": "Sp",
+            "name": "Senterpartiet"
+          },
+          {
+            "external_id": "SV",
+            "name": "Sosialistisk Venstreparti"
+          }
+        ]
+      }
+    },
+    {
+      "override": 100,
+      "promise_id": 2502,
+      "status": "for",
+      "promise": {
+        "body": "Venstre vil trappe opp satsingen på jernbane, annen kollektivtransport og nullutslippskjøretøy.",
+        "external_id": "2510",
+        "general": true,
+        "page": 19,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "V",
+            "name": "Venstre"
+          }
+        ]
+      }
+    },
+    {
+      "override": null,
+      "promise_id": 724,
+      "status": "related",
+      "promise": {
+        "body": "For å styrke norsk konkurranseevne vil Høyre bygge ut vei, jernbane og annen infrastruktur.",
+        "external_id": "724",
+        "general": true,
+        "page": 22,
+        "parliament_period_id": 1,
+        "source": "Partiprogram",
+        "parties": [
+          {
+            "external_id": "H",
+            "name": "Høyre"
+          }
+        ]
+      }
+    }
+  ],
+  "valence_issue_explanations": [
+    {
+      "explanation": "Har stemt for å øke bevilgningene til jernbaneinvesteringer med totalt 3,2 mrd. kr (ca. 50 %) i perioden 2009-2013, og mot å opprette fond",
+      "issue_id": 161,
+      "priority": 1,
+      "title": "Stemt for ca. 50 % økning over statsbudsjettet",
+      "parties": [
+        {
+          "external_id": "A",
+          "name": "Arbeiderpartiet"
+        },
+        {
+          "external_id": "SV",
+          "name": "Sosialistisk Venstreparti"
+        },
+        {
+          "external_id": "Sp",
+          "name": "Senterpartiet"
+        }
+      ]
+    },
+    {
+      "explanation": "Har stemt i sine alternative statsbudsjett for høyere bevilgninger enn regjeringen, senest ca. 500 mill. kr mer i 2013, og mot å opprette fond",
+      "issue_id": 161,
+      "priority": 2,
+      "title": "Stemt for å øke bevilgningene noe mer enn regjeringen",
+      "parties": [
+        {
+          "external_id": "V",
+          "name": "Venstre"
+        }
+      ]
+    },
+    {
+      "explanation": "Har stemt for å opprette et infrastrukturfond til vedlikehold av vei og jernbane på 50 mrd. kr",
+      "issue_id": 161,
+      "priority": 3,
+      "title": "Stemt for å opprette infrastrukturfond på 50 mrd. kr",
+      "parties": [
+        {
+          "external_id": "H",
+          "name": "Høyre"
+        }
+      ]
+    },
+    {
+      "explanation": "Har stemt for å opprette et infrastrukturfond for vei og jernbane på 50 mrd. kr, og gjentatte ganger for å øke bevilgningene over statsbudsjettet med mer enn regjeringen",
+      "issue_id": 161,
+      "priority": 4,
+      "title": "Stemt for å opprette infrastrukturfond på 50 mrd. kr",
+      "parties": [
+        {
+          "external_id": "KrF",
+          "name": "Kristelig Folkeparti"
+        }
+      ]
+    },
+    {
+      "explanation": "Har stemt for å opprette fond for utbygging av jernbane, senest på 100 mrd. kr i 2013",
+      "issue_id": 161,
+      "priority": 5,
+      "title": "Stemt for å opprette fond på 100 mrd. kr",
+      "parties": [
+        {
+          "external_id": "FrP",
+          "name": "Fremskrittspartiet"
+        }
+      ]
+    }
+  ]
+}

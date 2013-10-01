@@ -1,0 +1,1791 @@
+{
+    "description": "Boligsparing for ungdom (BSU) gir i dag ungdom under 34 \u00e5r inntil 4000 kr per \u00e5r i skattefradrag for \u00e5 spare til egen bolig. Man kan maksimalt spare 20.000 kr i \u00e5ret, og totalt 150.000 kr. Forslag til \u00e5 forbedre ordningen handler \u00e5 \u00f8ke fradragene eller h\u00f8yne grensen for hvor mye man kan spare.",
+    "promise_connections": [
+        {
+            "override": 0,
+            "promise": {
+                "body": "Sp vil heve grensen for skattefradrag for BSU-sparing til 300 000 kroner.",
+                "external_id": "2775",
+                "general": false,
+                "page": 21,
+                "parliament_period_id": 1,
+                "parties": [
+                    {
+                        "external_id": "Sp",
+                        "name": "Senterpartiet"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 2767,
+            "status": "for"
+        },
+        {
+            "override": 100,
+            "promise": {
+                "body": "For \u00e5 styrke selveierdemokratiet vil H\u00f8yre styrke ordningen med Boligsparing for ungdom (BSU) betydelig.",
+                "external_id": "757",
+                "general": true,
+                "page": 23,
+                "parliament_period_id": 1,
+                "parties": [
+                    {
+                        "external_id": "H",
+                        "name": "H\u00f8yre"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 757,
+            "status": "for"
+        },
+        {
+            "override": 100,
+            "promise": {
+                "body": "KrF vil heve grensen for maksimalt sparebel\u00f8p i BSU-ordningen til 225 000 kroner.",
+                "external_id": "1691",
+                "general": false,
+                "page": 65,
+                "parliament_period_id": 1,
+                "parties": [
+                    {
+                        "external_id": "KrF",
+                        "name": "Kristelig Folkeparti"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 1690,
+            "status": "for"
+        },
+        {
+            "override": 100,
+            "promise": {
+                "body": "KrF vil \u00f8ke grensene for samlet sparebel\u00f8p og maksimalt \u00e5rlig sparebel\u00f8p i BSU- ordningen.",
+                "external_id": "1888",
+                "general": false,
+                "page": 86,
+                "parliament_period_id": 1,
+                "parties": [
+                    {
+                        "external_id": "KrF",
+                        "name": "Kristelig Folkeparti"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 1885,
+            "status": "for"
+        },
+        {
+            "override": 100,
+            "promise": {
+                "body": "Venstre vil \u00f8ke bel\u00f8psgrensene i Boligsparing for ungdom (BSU)-ordningen.",
+                "external_id": "2134",
+                "general": false,
+                "page": 44,
+                "parliament_period_id": 1,
+                "parties": [
+                    {
+                        "external_id": "V",
+                        "name": "Venstre"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 2129,
+            "status": "for"
+        },
+        {
+            "override": null,
+            "promise": {
+                "body": "FrP vil heve grensen for sparing gjennom BSU-ordningen.",
+                "external_id": "10063",
+                "general": true,
+                "page": 21,
+                "parliament_period_id": 18,
+                "parties": [
+                    {
+                        "external_id": "FrP",
+                        "name": "Fremskrittspartiet"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 8637,
+            "status": "related"
+        },
+        {
+            "override": null,
+            "promise": {
+                "body": "H\u00f8yre vil styrke ordningen med Boligsparing for ungdom (BSU).",
+                "external_id": "9503",
+                "general": true,
+                "page": 33,
+                "parliament_period_id": 18,
+                "parties": [
+                    {
+                        "external_id": "H",
+                        "name": "H\u00f8yre"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 8085,
+            "status": "related"
+        },
+        {
+            "override": null,
+            "promise": {
+                "body": "KrF vil \u00f8ke BSU-grensen til 300 000 kroner, sette maksimalt sparebel\u00f8p per \u00e5r til 30 000 kroner, sette skattefradraget til 30 prosent av \u00e5rlig spart bel\u00f8p, og endre maksalderen fra 33 til 35 \u00e5r.",
+                "external_id": "12188",
+                "general": true,
+                "page": 110,
+                "parliament_period_id": 18,
+                "parties": [
+                    {
+                        "external_id": "KrF",
+                        "name": "Kristelig Folkeparti"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 10745,
+            "status": "related"
+        },
+        {
+            "override": null,
+            "promise": {
+                "body": "Sp vil styrke BSU-ordningen, slik at man kan spare minst 50 000 kroner i \u00e5ret og 500 000 kroner totalt.",
+                "external_id": "11588",
+                "general": true,
+                "page": 13,
+                "parliament_period_id": 18,
+                "parties": [
+                    {
+                        "external_id": "Sp",
+                        "name": "Senterpartiet"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 10159,
+            "status": "related"
+        },
+        {
+            "override": null,
+            "promise": {
+                "body": "Venstre vil \u00f8ke bel\u00f8psgrensene til Boligsparing for ungdom (BSU) til hhv 30.000 \u00e5rlig og totalt 300.000 kroner og \u00f8ke prosentsatsen i Skattefradraget fra 20 til 28 prosent.",
+                "external_id": "8825",
+                "general": true,
+                "page": 67,
+                "parliament_period_id": 18,
+                "parties": [
+                    {
+                        "external_id": "V",
+                        "name": "Venstre"
+                    }
+                ],
+                "source": "Partiprogram"
+            },
+            "promise_id": 7410,
+            "status": "related"
+        }
+    ],
+    "slug": "styrke-boligsparing-for-ungdom-bsu",
+    "title": "Styrke boligsparing for ungdom (BSU)",
+    "valence_issue_explanations": [
+        {
+            "explanation": "Har stemt mot alle forslag om endringer i BSU-ordningen",
+            "issue_id": 12,
+            "parties": [
+                {
+                    "external_id": "A",
+                    "name": "Arbeiderpartiet"
+                },
+                {
+                    "external_id": "SV",
+                    "name": "Sosialistisk Venstreparti"
+                },
+                {
+                    "external_id": "Sp",
+                    "name": "Senterpartiet"
+                }
+            ],
+            "priority": 1,
+            "title": "Stemt mot"
+        },
+        {
+            "explanation": "Har gjentatte ganger stemt for \u00e5 \u00f8ke \u00e5rlig og samlet sparebel\u00f8p, h\u00f8yere fradrag, og h\u00f8yere aldersgrense",
+            "issue_id": 12,
+            "parties": [
+                {
+                    "external_id": "FrP",
+                    "name": "Fremskrittspartiet"
+                },
+                {
+                    "external_id": "H",
+                    "name": "H\u00f8yre"
+                },
+                {
+                    "external_id": "V",
+                    "name": "Venstre"
+                },
+                {
+                    "external_id": "KrF",
+                    "name": "Kristelig Folkeparti"
+                }
+            ],
+            "priority": 2,
+            "title": "Stemt for"
+        }
+    ],
+    "vote_connections": [
+        {
+            "comment": "I sitt alternative [budsjettforslag](http://www.venstre.no/files/sentralt/Venstre_alt_budsjett_2011_151110.pdf) for 2011 foresl\u00e5r Venstre f\u00f8lgende endringer i BSU-ordningen: \u00f8ke satsen for skattefradring til 28 % og oppheve den totale sparegrensen, som n\u00e5 er p\u00e5 150.000.",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke skattefradragssatsen og oppheve den totale sparegrensen for BSU (Venstres alternative statsbudsjett 2011)",
+            "vote": {
+                "absent_count": 69,
+                "against_count": 98,
+                "enacted": false,
+                "external_id": "2010-11-26 01:30:39.457n",
+                "for_count": 2,
+                "personal": true,
+                "slug": "1290731439ne",
+                "stats": {
+                    "absent": 69,
+                    "against": 98,
+                    "approve": 2,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 38,
+                            "for": 1
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 18,
+                            "against": 23
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 80 - 83 p\u00e5 vegne av V.",
+                "time": "2010-11-26T00:30:39Z"
+            },
+            "vote_id": 1645,
+            "weight": 1.0
+        },
+        {
+            "comment": "Venstre foresl\u00e5r i sitt alternative [budsjettforslag](http://www.venstre.no/files/sentralt/venstres_alternative_budsjett_2013_endelig_versjon_201112.pdf) for 2013 av satsen for skattefradrag i BSU-ordningen fra 20 til 28%, heve \u00e5rlige sparebel\u00f8p til 25 000 kr og heve samlet \r\nsparebel\u00f8p til 300 000 kr.\r\n",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke skattefradragssatsen og heve sparebel\u00f8p (Venstres alternative statsbudsjett 2013)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 100,
+                "enacted": false,
+                "external_id": "2805",
+                "for_count": 2,
+                "personal": true,
+                "slug": "1354058597ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 100,
+                    "approve": 2,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 23,
+                            "against": 40,
+                            "for": 1
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 5,
+                            "against": 5
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 61 - 70 p\u00e5 vegne av V.",
+                "time": "2012-11-27T23:23:17Z"
+            },
+            "vote_id": 1132,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av skatte- og avgiftsopplegget for 2010, foresl\u00e5r Venstre en endring i [skattelovens bestemmelse](http://www.lovdata.no/all/hl-19990326-014.html#16-10) om skattefradrag for BSU. De [foresl\u00e5r](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2009-2010/inns-200910-004/22/) \u00e5 \u00f8ke skattefradraget fra 20% til 28 % av innbetalt sparebel\u00f8p.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke skattefradrag for boligsparing til 28 % av innbetalt sparebel\u00f8p",
+            "vote": {
+                "absent_count": 0,
+                "against_count": 167,
+                "enacted": false,
+                "external_id": "2009-11-26 00:46:00 +0100:1",
+                "for_count": 2,
+                "personal": true,
+                "slug": "1259192760ne",
+                "stats": {
+                    "absent": 0,
+                    "against": 167,
+                    "approve": 2,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "against": 64
+                        },
+                        "Fremskrittspartiet": {
+                            "against": 41
+                        },
+                        "H\u00f8yre": {
+                            "against": 30
+                        },
+                        "Kristelig Folkeparti": {
+                            "against": 10
+                        },
+                        "Senterpartiet": {
+                            "against": 11
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "against": 11
+                        },
+                        "Venstre": {
+                            "for": 2
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 48\u201359 fra Venstre",
+                "time": "2009-11-25T23:46:00Z"
+            },
+            "vote_id": 2921,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av skatte- og avgiftsopplegget for 2010, foresl\u00e5r Venstre en endring i [skattelovens bestemmelse](http://www.lovdata.no/all/hl-19990326-014.html#16-10) om skattefradrag for BSU. I [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2009-2010/inns-200910-004/22/) foresl\u00e5r de \u00e5 \u00f8ke skattefradraget fra 20 % til 28 % av innbetalt sparebel\u00f8p.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke fradraget til 28 %, men beholde sparegrensen p\u00e5 20.000 kr",
+            "vote": {
+                "absent_count": 68,
+                "against_count": 100,
+                "enacted": false,
+                "external_id": "2011-06-14 22:45:53.433n",
+                "for_count": 1,
+                "personal": true,
+                "slug": "1308084353ne",
+                "stats": {
+                    "absent": 68,
+                    "against": 100,
+                    "approve": 1,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 18,
+                            "against": 23
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 22 - 37 p\u00e5 vegne av V.",
+                "time": "2011-06-14T20:45:53Z"
+            },
+            "vote_id": 2581,
+            "weight": 1.0
+        },
+        {
+            "comment": "Venstre foresl\u00e5r \u00e5 endre i skatte- og avgiftsreglene slik at skattefradrag for BSU gis med 28 % av sparebel\u00f8pet, sammenlignet med 20 % som er dagens ordning. Sparegrensen p\u00e5 20.000 kr i \u00e5ret beholdes. [Les innstillingen her](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2010-2011/inns-201011-430/).",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke skattefradraget for BSU til 28%",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 101,
+                "enacted": false,
+                "external_id": "2010-11-26 01:45:31.933n",
+                "for_count": 1,
+                "personal": true,
+                "slug": "1290732331ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 101,
+                    "approve": 1,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 42 - 61 p\u00e5 vegne av V.",
+                "time": "2010-11-26T00:45:31Z"
+            },
+            "vote_id": 1667,
+            "weight": 1.0
+        },
+        {
+            "comment": "KrF foresl\u00e5r i sitt [alternative budsjettforslag](http://www.krf.no/ikbViewer/Content/43634/KrFs%20alternative%20budsjett%202011.pdf) \u00e5 heve \u00e5rlige sparebel\u00f8p til 25 000 kr og heve samlet \r\nsparebel\u00f8p til 300 000 kr.\r\n",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke bel\u00f8psgrenser for BSU (KrFs alternative statsbudsjett 2011)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 96,
+                "enacted": false,
+                "external_id": "2010-11-26 01:30:59.543n",
+                "for_count": 6,
+                "personal": true,
+                "slug": "1290731459ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 96,
+                    "approve": 6,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 74 - 79 p\u00e5 vegne av KrF.",
+                "time": "2010-11-26T00:30:59Z"
+            },
+            "vote_id": 1646,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt alternative [budsjettforslag]( ) for 2013, foresl\u00e5r KrF \u00e5 \u00f8ke bel\u00f8psgrenser for BSU til  300.000 kr totalt og 25.000 pr \u00e5r. I tillegg foresl\u00e5r de \u00e5 \u00f8ke skattefradraget til 28 %.",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke bel\u00f8psgrenser og skattefradrag for BSU (KrFs alternative statsbudsjett 2013)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 96,
+                "enacted": false,
+                "external_id": "2806",
+                "for_count": 6,
+                "personal": true,
+                "slug": "1354058613ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 96,
+                    "approve": 6,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 23,
+                            "against": 41
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 23,
+                            "for": 1
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 5,
+                            "for": 5
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 59 og 60 p\u00e5 vegne av KrF.",
+                "time": "2012-11-27T23:23:33Z"
+            },
+            "vote_id": 1133,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.frp.no/filestore/Alternativtbudsjett2012FrPPDF.pdf) for 2012 foresl\u00e5r FrP \u00e5 \u00f8ke det \u00e5rlige sparebel\u00f8pet for BSU fra 20 000 til 25 000 kr og det maksimale sparebel\u00f8p 300 000 kr. ",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke sparebel\u00f8psgrenser for BSU (FrPs alternative statsbudsjett 2012)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 80,
+                "enacted": false,
+                "external_id": "1555",
+                "for_count": 22,
+                "personal": true,
+                "slug": "1322179808ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 80,
+                    "approve": 22,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 24,
+                            "against": 40
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "for": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 6 - 68 p\u00e5 vegne av FrP.",
+                "time": "2011-11-25T00:10:08Z"
+            },
+            "vote_id": 936,
+            "weight": 1.0
+        },
+        {
+            "comment": "I dette [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2009-2010/inns-200910-004/22/) foresl\u00e5r H\u00f8yre og Venstre \u00e5 fjerne bestemmelsen i skatteloven om at maksimalt sparebel\u00f8p for BSU skal v\u00e6re 150.000 kr. ",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "Fjerne maksgrensen for sparebel\u00f8p for BSU",
+            "vote": {
+                "absent_count": 0,
+                "against_count": 137,
+                "enacted": false,
+                "external_id": "2009-11-26 00:47:41 +0100:5",
+                "for_count": 32,
+                "personal": true,
+                "slug": "1259192861ne",
+                "stats": {
+                    "absent": 0,
+                    "against": 137,
+                    "approve": 32,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "against": 64
+                        },
+                        "Fremskrittspartiet": {
+                            "against": 41
+                        },
+                        "H\u00f8yre": {
+                            "for": 30
+                        },
+                        "Kristelig Folkeparti": {
+                            "against": 10
+                        },
+                        "Senterpartiet": {
+                            "against": 11
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "against": 11
+                        },
+                        "Venstre": {
+                            "for": 2
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 19 og 22\u201327 fra H\u00f8yre og Venstre",
+                "time": "2009-11-25T23:47:41Z"
+            },
+            "vote_id": 2925,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.hoyre.no/filestore/Filer/Politikkdokumenter/Alternative_statsbudsjett/121116AlternativtSB2013.pdf) for 2013 foresl\u00e5r H\u00f8yre \u00e5 \u00f8ke \u00e5rlig maksimalt BSU-sparebel\u00f8p til 25.000 kr og heve \u00f8vre sparegrense til 300.000 kr. I tillegg foresl\u00e5s det \u00e5 heve skattefradraget fra 20 til 28%.",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke sparebel\u00f8p og skattefradrag for BSU (H\u00f8yres alternative statsbudsjett 2013)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 84,
+                "enacted": false,
+                "external_id": "2807",
+                "for_count": 18,
+                "personal": true,
+                "slug": "1354058629ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 84,
+                    "approve": 18,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 23,
+                            "against": 41
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 5,
+                            "against": 5
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 58 p\u00e5 vegne av H.",
+                "time": "2012-11-27T23:23:49Z"
+            },
+            "vote_id": 1134,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.hoyre.no/filestore/Filer/Politikkdokumenter/Alternative_statsbudsjett/Hyresalternativebudsjett2012.pdf) for 2012 foresl\u00e5r H\u00f8yre \u00e5 \u00f8ke \u00e5rlig maksimalt BSU-sparebel\u00f8p til 25.000 kr og fjerne \u00f8vre grense for samlet sparebel\u00f8p. Denne er i dag 150.000 kr. I tillegg foresl\u00e5s det \u00e5 heve skattefradraget fra 20 til 28%.",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke sparebel\u00f8p og skattefradrag for BSU (H\u00f8yres alternative statsbudsjett 2012)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 84,
+                "enacted": false,
+                "external_id": "1554",
+                "for_count": 18,
+                "personal": true,
+                "slug": "1322179789ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 84,
+                    "approve": 18,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 24,
+                            "against": 40
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "against": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 69 p\u00e5 vegne av H.",
+                "time": "2011-11-25T00:09:49Z"
+            },
+            "vote_id": 935,
+            "weight": 1.0
+        },
+        {
+            "comment": "KrF foresl\u00e5r \u00e5 endre skatteloven slik at innbetalt sparebel\u00f8p for BSU-ordningen kan ikke overstige 25.000 kr pr. inntekts\u00e5r. Samlet innbetalt sparebel\u00f8p p\u00e5 kontoen kan ikke overstige 225 000 kr.\r\n\r\n[Les innstillingen her](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2009-2010/inns-200910-004/). ",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke \u00e5rlig og totalt innbefalt sparebel\u00f8p for BSU",
+            "vote": {
+                "absent_count": 0,
+                "against_count": 158,
+                "enacted": false,
+                "external_id": "2009-11-26 00:46:28 +0100:2",
+                "for_count": 11,
+                "personal": true,
+                "slug": "1259192788ne",
+                "stats": {
+                    "absent": 0,
+                    "against": 158,
+                    "approve": 11,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "against": 64
+                        },
+                        "Fremskrittspartiet": {
+                            "against": 40,
+                            "for": 1
+                        },
+                        "H\u00f8yre": {
+                            "against": 30
+                        },
+                        "Kristelig Folkeparti": {
+                            "for": 10
+                        },
+                        "Senterpartiet": {
+                            "against": 11
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "against": 11
+                        },
+                        "Venstre": {
+                            "against": 2
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 36\u201338, 40, 41a og 42\u201346 fra Kristelig Folkeparti",
+                "time": "2009-11-25T23:46:28Z"
+            },
+            "vote_id": 2922,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av skatte- og avgiftsopplegget for 2011, foresl\u00e5r KrF en endring i [skattelovens bestemmelse](http://www.lovdata.no/all/hl-19990326-014.html#16-10) om skattefradrag for BSU. I [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2010-2011/inns-201011-430/15/) foresl\u00e5r de \u00e5 endre maksgrensen for innbetalt sparebel\u00f8p til 25.000 kr per \u00e5r. Det samlede sparebel\u00f8pet foresl\u00e5s \u00f8kt til 225 000 kr.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke grensene for innbetalt sparebel\u00f8p for BSU",
+            "vote": {
+                "absent_count": 68,
+                "against_count": 95,
+                "enacted": false,
+                "external_id": "2010-11-26 01:45:54.930n",
+                "for_count": 6,
+                "personal": true,
+                "slug": "1290732354ne",
+                "stats": {
+                    "absent": 68,
+                    "against": 95,
+                    "approve": 6,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 13,
+                            "against": 17
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 31 - 38, 39a, 40 og 41 p\u00e5 vegne av KrF.",
+                "time": "2010-11-26T00:45:54Z"
+            },
+            "vote_id": 1668,
+            "weight": 1.0
+        },
+        {
+            "comment": "FrP, H\u00f8yre, KrF og Venstre fremmer i forbindelse med skatte- og avgiftsdelen for 2012 \u00e5 endre skattelovens bestemmelse om BSU. De [foresl\u00e5r](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2011-2012/inns-201112-004/26/) \u00e5 \u00f8ke sparebel\u00f8pet til 25.000 kr pr \u00e5r, og taket p\u00e5 sparebel\u00f8pet foresl\u00e5s satt til 300.000 kr.",
+            "matches": true,
+            "proposition_type": "national_budget_taxes",
+            "title": "\u00d8ke sparebel\u00f8pet i BSU til 25.000 kr per \u00e5r, totalt 300.000 kr fra 2012",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 55,
+                "enacted": false,
+                "external_id": "1592",
+                "for_count": 47,
+                "personal": true,
+                "slug": "1322180703ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 55,
+                    "approve": 47,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 24,
+                            "against": 40
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "for": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 1 - 9 p\u00e5 vegne av FrP, H, KrF og V.",
+                "time": "2011-11-25T00:25:03Z"
+            },
+            "vote_id": 966,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av skatte- og avgiftsreglene for 2011, [foresl\u00e5r](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2010-2011/inns-201011-004/23/) H\u00f8yre \u00e5 endre skatteloven slik at skattefradrag for BSU gis med 28 % av sparebel\u00f8pet sammenlignet med 20 % som er dagens ordning. Innbetalt sparebel\u00f8p foresl\u00e5s \u00f8kt til maks 25.000 kr pr. inntekts\u00e5r.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke skattefradrag og innbetalt sparebel\u00f8p for BSU",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 84,
+                "enacted": false,
+                "external_id": "2010-11-26 01:46:34.883n",
+                "for_count": 18,
+                "personal": true,
+                "slug": "1290732394ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 84,
+                    "approve": 18,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 19 - 27, 28a og 29a p\u00e5 vegne av H.",
+                "time": "2010-11-26T00:46:34Z"
+            },
+            "vote_id": 1670,
+            "weight": 1.0
+        },
+        {
+            "comment": "FrP, H\u00f8yre, KrF og Venstre fremmer i dette [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2012-2013/inns-201213-004/22/) endringer i skatte- og avgiftsloven. Det foresl\u00e5s at skattefradrag for BSU gis med 28 % av sparebel\u00f8pet sammenlignet med 20 % som er dagens ordning. Innbetalt sparebel\u00f8p foresl\u00e5s \u00f8kt til 25.000 kr pr. \u00e5r og totalt 300.000 kr.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_legislation",
+            "title": "\u00d8ke fradragsgrensen til 28 % og \u00f8ke sparegrensen med 5.000 kr i 2013",
+            "vote": {
+                "absent_count": 66,
+                "against_count": 55,
+                "enacted": false,
+                "external_id": "2845",
+                "for_count": 48,
+                "personal": true,
+                "slug": "1354059779ne",
+                "stats": {
+                    "absent": 66,
+                    "against": 55,
+                    "approve": 48,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 22,
+                            "against": 42
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "for": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 5,
+                            "for": 5
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 1 - 9 p\u00e5 vegne av FrP, H, KrF og V.",
+                "time": "2012-11-27T23:42:59Z"
+            },
+            "vote_id": 1166,
+            "weight": 1.0
+        },
+        {
+            "comment": "Venstre ber i dette [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Saker/Lose-forslag/?p=51880) regjeringen i forbindelse med framlegging av statsbudsjettet for 2013 foresl\u00e5 forbedringer i BSU-ordningen, gjennom \u00e5 \u00f8ke fradragsprosenten til 28 %, \u00f8ke det \u00e5rlige sparebel\u00f8pet til 30 000 kr, og det totale sparebel\u00f8pet til 300 000 kr.",
+            "matches": true,
+            "proposition_type": "representative_proposition",
+            "title": "Sette fradragsprosenten til 28 %, den \u00e5rlige sparegrensen til 30.000 kr og det totale sparebel\u00f8pet til 300.000 kr",
+            "vote": {
+                "absent_count": 71,
+                "against_count": 52,
+                "enacted": false,
+                "external_id": "2308",
+                "for_count": 46,
+                "personal": true,
+                "slug": "1337860718ne",
+                "stats": {
+                    "absent": 71,
+                    "against": 52,
+                    "approve": 46,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 18,
+                            "for": 23
+                        },
+                        "H\u00f8yre": {
+                            "absent": 13,
+                            "against": 1,
+                            "for": 16
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 9 p\u00e5 vegne av V.",
+                "time": "2012-05-24T11:58:38Z"
+            },
+            "vote_id": 318,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.frp.no/filestore/FrPsalternativebudsjett2013v2.pdf) for 2013 foresl\u00e5r FrP \u00e5 \u00f8ke det \u00e5rlige sparebel\u00f8pet for BSU fra 20 000 til 25 000 kr og det maksimale sparebel\u00f8p 300 000 kr. ",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke sparebel\u00f8p og heve skattefradrag (FrPs alternative statsbudsjett 2013)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 78,
+                "enacted": false,
+                "external_id": "2808",
+                "for_count": 24,
+                "personal": true,
+                "slug": "1354058646ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 78,
+                    "approve": 24,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 23,
+                            "against": 41
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "for": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 5,
+                            "against": 5
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 6 - 57 p\u00e5 vegne av FrP.",
+                "time": "2012-11-27T23:24:06Z"
+            },
+            "vote_id": 1135,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.krf.no/ikbViewer/Content/66575/KrFsAlternativeStatsbudsjett2012.pdf) for 2012 foresl\u00e5r KrF \u00e5 heve bel\u00f8psgrenser til 300.000 kr totalt og 25.000 pr \u00e5r og \u00f8ke skattefradraget til 28%. \r\n",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke skattefradraget og heve bel\u00f8psgrenser for BSU (KrFs alternative statsbudsjett 2012)",
+            "vote": {
+                "absent_count": 68,
+                "against_count": 95,
+                "enacted": false,
+                "external_id": "1553",
+                "for_count": 6,
+                "personal": true,
+                "slug": "1322179771ne",
+                "stats": {
+                    "absent": 68,
+                    "against": 95,
+                    "approve": 6,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "against": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 70 p\u00e5 vegne av KrF.",
+                "time": "2011-11-25T00:09:31Z"
+            },
+            "vote_id": 934,
+            "weight": 1.0
+        },
+        {
+            "comment": "I dette [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2011-2012/dok8-201112-001/2/), fremmet av FrP, H\u00f8yre, KrF og Venstre, bes Regjeringen om \u00e5 forbedre BSU-ordningen, gjennom \u00e5 \u00f8ke det \u00e5rlige sparebel\u00f8pet og taket for ordningen, samt \u00e5 vurdere \u00e5 \u00f8ke skattefradraget til 28 %.\r\n\r\nRegjeringspartiene viser i [innstillingen](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2011-2012/inns-201112-186/2/) til den gjennomf\u00f8rte \u00f8kningen i maksimalt sparebel\u00f8p fra 100.000 kr til 150.000 kr, og p\u00e5peker at flertallet av unge ikke benytter seg av ordningen. De foresl\u00e5r derfor \u00e5 legge forslaget ved protokollen. Les mer i [referatet](http://stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=51374).",
+            "matches": true,
+            "proposition_type": "representative_proposition",
+            "title": "Forbedre BSU-ordningen ",
+            "vote": {
+                "absent_count": 76,
+                "against_count": 49,
+                "enacted": false,
+                "external_id": "2052",
+                "for_count": 44,
+                "personal": true,
+                "slug": "1330629908ne",
+                "stats": {
+                    "absent": 76,
+                    "against": 49,
+                    "approve": 44,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 27,
+                            "against": 37
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "for": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 14,
+                            "for": 16
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 5,
+                            "for": 5
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Det voteres alternativt mellom innstillingen og forslag nr.1 fra FrP, H, KrF og V",
+                "time": "2012-03-01T19:25:08Z"
+            },
+            "vote_id": 591,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative statsbudsjett](http://www.venstre.no/files/sentralt/venstres_alternative_budsjett_2012.pdf) for 2012 foresl\u00e5r Venstre \u00e5 \u00f8e av satsen for skattefradrag i BSU-ordningen fra 20 % til 28 % samt heve \u00e5rlige sparebel\u00f8p til 25.000 kr og totalt sparebel\u00f8p til 300.000 kr.\r\n",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "\u00d8ke skattefradragssatsen og heve sparebel\u00f8pet for BSU (Venstres alternative statsbudsjett 2012)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 100,
+                "enacted": false,
+                "external_id": "1552",
+                "for_count": 2,
+                "personal": true,
+                "slug": "1322179754ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 100,
+                    "approve": 2,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 24,
+                            "against": 40
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "against": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 3,
+                            "against": 7,
+                            "for": 1
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 71 - 76 p\u00e5 vegne av V.",
+                "time": "2011-11-25T00:09:14Z"
+            },
+            "vote_id": 933,
+            "weight": 1.0
+        },
+        {
+            "comment": "H\u00f8yre, KrF og Venstre fremmer et [forslag](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2011-2012/inns-201112-370/17/) i forbindelse med endringer i skatte- og avgiftsdelen av statsbudsjett for 2012. De foresl\u00e5r at skattefradrag for boligsparing gis med 28 % av innbetalt sparebel\u00f8p, og maks pr. inntekts\u00e5r er 25 000 kr. Samlet bel\u00f8p foresl\u00e5s \u00f8kt til 300.000 kr.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke fradraget til 28 % og \u00f8ke sparegrensen med 5.000 kr",
+            "vote": {
+                "absent_count": 56,
+                "against_count": 83,
+                "enacted": false,
+                "external_id": "2547",
+                "for_count": 30,
+                "personal": true,
+                "slug": "1339492667ne",
+                "stats": {
+                    "absent": 56,
+                    "against": 83,
+                    "approve": 30,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 19,
+                            "against": 45
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 23,
+                            "for": 1
+                        },
+                        "H\u00f8yre": {
+                            "absent": 8,
+                            "for": 22
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 4 p\u00e5 vegne av H, KrF og V.",
+                "time": "2012-06-12T09:17:47Z"
+            },
+            "vote_id": 94,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av revidert budsjett fremmer H\u00f8yre forslag om \u00e5 \u00f8ke maksgrensen for innbetalt sparebel\u00f8p pr \u00e5r til 25.000 kr. Det foresl\u00e5s ogs\u00e5 \u00e5 \u00f8ke skattefradraget til 28%. [Les innstillingen her](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2010-2011/inns-201011-430/).",
+            "matches": true,
+            "proposition_type": "opposition_proposition_legislation",
+            "title": "\u00d8ke fradraget til 28 % og \u00f8ke sparegrensen med 5.000 kr ",
+            "vote": {
+                "absent_count": 69,
+                "against_count": 82,
+                "enacted": false,
+                "external_id": "2011-06-14 22:46:27.113n",
+                "for_count": 18,
+                "personal": true,
+                "slug": "1308084387ne",
+                "stats": {
+                    "absent": 69,
+                    "against": 82,
+                    "approve": 18,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "against": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 10 og 11 p\u00e5 vegne av H.",
+                "time": "2011-06-14T20:46:27Z"
+            },
+            "vote_id": 2583,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av revidert budsjett for 2010, foresl\u00e5r Venstre en endring i [skattelovens bestemmelse](http://www.lovdata.no/all/hl-19990326-014.html#16-10) om skattefradrag for BSU. I [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2009-2010/inns-200910-351/9/) foresl\u00e5r de \u00e5 \u00f8ke skattefradraget fra 20 % til 28 % av innbetalt sparebel\u00f8p.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke skattefradraget for boligsparing til 28 % av innbetalt sparebel\u00f8p",
+            "vote": {
+                "absent_count": 70,
+                "against_count": 96,
+                "enacted": false,
+                "external_id": "2010-06-14 19:03:32 +0200:1",
+                "for_count": 3,
+                "personal": true,
+                "slug": "1276535012ne",
+                "stats": {
+                    "absent": 70,
+                    "against": 96,
+                    "approve": 3,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 18,
+                            "against": 23
+                        },
+                        "H\u00f8yre": {
+                            "absent": 14,
+                            "against": 16
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 5,
+                            "for": 2
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Det voteres over forslagene nr. 22-33 fra V",
+                "time": "2010-06-14T17:03:32Z"
+            },
+            "vote_id": 3442,
+            "weight": 1.0
+        },
+        {
+            "comment": "I forbindelse med behandlingen av revidert budsjett for 2012, foresl\u00e5r KrF en endring i [skattelovens bestemmelse](http://www.lovdata.no/all/hl-19990326-014.html#16-10) om skattefradrag for BSU. I [forslaget](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2010-2011/inns-201011-430/15/) foresl\u00e5r de \u00e5 endre maksgrensen for innbetalt sparebel\u00f8p til 25.000 kr per \u00e5r. Det samlede sparebel\u00f8pet foresl\u00e5s \u00f8kt til 225 000 kr.",
+            "matches": true,
+            "proposition_type": "opposition_proposition_budget",
+            "title": "\u00d8ke innbetalt sparebel\u00f8p for BSU",
+            "vote": {
+                "absent_count": 69,
+                "against_count": 91,
+                "enacted": false,
+                "external_id": "2011-06-14 22:46:10.677n",
+                "for_count": 9,
+                "personal": true,
+                "slug": "1308084370ne",
+                "stats": {
+                    "absent": 69,
+                    "against": 91,
+                    "approve": 9,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 37,
+                            "for": 2
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "against": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "against": 17,
+                            "for": 1
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 3,
+                            "against": 8
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 14 - 19 p\u00e5 vegne av KrF.",
+                "time": "2011-06-14T20:46:10Z"
+            },
+            "vote_id": 2582,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.hoyre.no/filestore/Filer/Politikkdokumenter/Alternative_statsbudsjett/Hyresalternativestatsbudsjett2010.pdf) for 2010 foresl\u00e5r H\u00f8yre \u00e5 fjerne den \u00f8vre sparegrensen for BSU. Denne er i dag p\u00e5 150.000 kr.",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "Fjerne \u00f8vre sparegrense for BSU (H\u00f8yres alternative statsbudsjett 2010)",
+            "vote": {
+                "absent_count": 0,
+                "against_count": 139,
+                "enacted": false,
+                "external_id": "2009-11-26 00:26:57 +0100:3",
+                "for_count": 30,
+                "personal": true,
+                "slug": "1259191617ne",
+                "stats": {
+                    "absent": 0,
+                    "against": 139,
+                    "approve": 30,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "against": 64
+                        },
+                        "Fremskrittspartiet": {
+                            "against": 41
+                        },
+                        "H\u00f8yre": {
+                            "for": 30
+                        },
+                        "Kristelig Folkeparti": {
+                            "against": 10
+                        },
+                        "Senterpartiet": {
+                            "against": 11
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "against": 11
+                        },
+                        "Venstre": {
+                            "against": 2
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 57 fra H\u00f8yre",
+                "time": "2009-11-25T23:26:57Z"
+            },
+            "vote_id": 2900,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.hoyre.no/filestore/Bilder/Ukjent_-_uformatert_-_usortert/Diverse_usortert/alternativt_budsjett_2011_fff-2.pdf) for 2011, foresl\u00e5r H\u00f8yre \u00e5 heve det maksimale sparebel\u00f8pet per \u00e5r til 25.000 kr og fjerne \u00f8vre grense for samlet sparebel\u00f8p. I tillegg \u00f8nsker de \u00e5 \u00f8ke satsen for skattefradrag fra 20 til 28 %. \r\n",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "Heve sparegrenser og \u00f8ke skattefradrag for BSU (H\u00f8yres alternative statsbudsjett 2011)",
+            "vote": {
+                "absent_count": 67,
+                "against_count": 84,
+                "enacted": false,
+                "external_id": "2010-11-26 01:31:34.507n",
+                "for_count": 18,
+                "personal": true,
+                "slug": "1290731494ne",
+                "stats": {
+                    "absent": 67,
+                    "against": 84,
+                    "approve": 18,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 39
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 17,
+                            "against": 24
+                        },
+                        "H\u00f8yre": {
+                            "absent": 12,
+                            "for": 18
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "against": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "against": 1
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 72 p\u00e5 vegne av H.",
+                "time": "2010-11-26T00:31:34Z"
+            },
+            "vote_id": 1648,
+            "weight": 1.0
+        },
+        {
+            "comment": "I sitt [alternative budsjettforslag](http://www.venstre.no/files/sentralt/sentralt/venstre2010.doc) for 2010 foresl\u00e5r Venstre f\u00f8lgende endringer i BSU-ordningen: \u00f8ke satsen for skattefradrag til 28 % og oppheve den totale sparegrensen, som n\u00e5 er p\u00e5 150.000.",
+            "matches": true,
+            "proposition_type": "alternate_national_budget",
+            "title": "Oppheve total sparegrense og \u00f8ke skattefradrag (Venstres alternative statsbudsjett 2012) ",
+            "vote": {
+                "absent_count": 0,
+                "against_count": 161,
+                "enacted": false,
+                "external_id": "2009-11-26 00:26:00 +0100:1",
+                "for_count": 8,
+                "personal": true,
+                "slug": "1259191560ne",
+                "stats": {
+                    "absent": 0,
+                    "against": 161,
+                    "approve": 8,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "against": 64
+                        },
+                        "Fremskrittspartiet": {
+                            "against": 38,
+                            "for": 3
+                        },
+                        "H\u00f8yre": {
+                            "against": 29,
+                            "for": 1
+                        },
+                        "Kristelig Folkeparti": {
+                            "against": 8,
+                            "for": 2
+                        },
+                        "Senterpartiet": {
+                            "against": 11
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "against": 11
+                        },
+                        "Venstre": {
+                            "for": 2
+                        }
+                    }
+                },
+                "subject": "Forslag nr. 62-64 fra Venstre",
+                "time": "2009-11-25T23:26:00Z"
+            },
+            "vote_id": 2898,
+            "weight": 1.0
+        },
+        {
+            "comment": "Forslag fra FrP, H\u00f8yre, KrF og Venstre om \u00e5 be regjeringen legge frem forslag om forbedringer i ordningen med boligsparing for ungdom (BSU). Forbedringene m\u00e5 innbefatte en \u00f8kning av det \u00e5rlige sparebel\u00f8pet og taket for ordningen. I tillegg bes det om en vurdering av \u00e5 \u00f8ke fradraget fra 20 % til 28 % og heving av aldersgrensen fra 34 \u00e5r. [Les forslaget her](http://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2010-2011/dok8-201011-008/).\r\n\r\nAp, SV og Sp er p\u00e5 sin side tilfredse med at taket for maksimalt sparebel\u00f8p er hevet fra 100 000 kr til 150 000 kr, og mener ordningen er god for ungdom som tjener nok penger til \u00e5 kunne legge tilside noe til boligkj\u00f8p. De foresl\u00e5r derfor \u00e5 legge forslaget ved protokollen. Les mer i [referatet](http://stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=47834).",
+            "matches": true,
+            "proposition_type": "representative_proposition",
+            "title": "\u00d8ke det \u00e5rlige sparebel\u00f8pet, \u00f8ke fradraget til 28 %, og heve aldersgrensa fra 34 \u00e5r i 2011",
+            "vote": {
+                "absent_count": 71,
+                "against_count": 52,
+                "enacted": false,
+                "external_id": "2010-12-17 12:59:22.983n",
+                "for_count": 46,
+                "personal": true,
+                "slug": "1292587162ne",
+                "stats": {
+                    "absent": 71,
+                    "against": 52,
+                    "approve": 46,
+                    "parties": {
+                        "Arbeiderpartiet": {
+                            "absent": 25,
+                            "against": 38,
+                            "for": 1
+                        },
+                        "Fremskrittspartiet": {
+                            "absent": 19,
+                            "for": 22
+                        },
+                        "H\u00f8yre": {
+                            "absent": 13,
+                            "against": 1,
+                            "for": 16
+                        },
+                        "Kristelig Folkeparti": {
+                            "absent": 4,
+                            "for": 6
+                        },
+                        "Senterpartiet": {
+                            "absent": 5,
+                            "against": 6
+                        },
+                        "Sosialistisk Venstreparti": {
+                            "absent": 4,
+                            "against": 7
+                        },
+                        "Venstre": {
+                            "absent": 1,
+                            "for": 1
+                        }
+                    }
+                },
+                "subject": "Det voteres alternativt mellom innstillingen  og forslag nr. 1 og 2 fra FrP, H, KrF og V",
+                "time": "2010-12-17T11:59:22Z"
+            },
+            "vote_id": 1989,
+            "weight": 1.0
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+<div ng-controller="AppController">
+  <ul ng-repeat="name in issueNames">
+    <li><a ng-click="openIssue(name)" href="#">{{name}}</a></li>
+  </ul>
+
+  <div ng-show="issue">
+    <hr>
+
+    <h2>{{issue.title}}</h2>
+    <p>{{issue.description}}</p>
+
+    <h3>Posisjoner</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Tittel</th>
+          <th>Kommentar</th>
+          <th>Partier</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr ng-repeat="position in getPositions(issue)">
+          <td>{{position.title}}</td>
+          <td>{{position.explanation}}</td>
+          <td>
+            <p>{{getPartyList(position)}} vs {{getPartyList(position)}}</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Avstemninger</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="min-width: 84px;">Dato</th>
+          <th>Tittel</th>
+          <th>Koble til..</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr ng-repeat="vote in getVotes(issue)">
+          <td>{{vote.vote.time | date}}</td>
+          <td>{{vote.title}}</td>
+          <td>
+            <select ng-model="votePositions">
+              <option
+                ng-repeat="position in getPositions(issue)"
+                value="{{position.id}}">{{position.title}}</option>
+            </select>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>
