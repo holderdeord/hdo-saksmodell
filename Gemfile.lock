@@ -67,6 +67,7 @@ DEPENDENCIES
   pg
   puma
   rake
+  rspec
   sequel
   shotgun
   sinatra

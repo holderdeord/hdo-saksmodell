@@ -11,6 +11,8 @@ notifications:
         eP0K3YVi0B3EutRp0kC2AJts73XIBynis75Iosi6+nSGivKiQKg=
 before_script:
   - sh -e /etc/init.d/xvfb start
+services:
+  - postgresql
 env:
   global:
     - DISPLAY=:99
