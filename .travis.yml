@@ -3,6 +3,8 @@ rvm:
 - 2.0.0
 notifications:
   hipchat:
+    on_success: change
+    on_failure: always
     rooms:
     - secure: |-
         cBtl/pCzXRC37Oj3qg8436swGE8xRAZ1QVZIesRTn6E/jIERV0wusg68Gauw
