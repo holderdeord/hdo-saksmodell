@@ -1,4 +1,3 @@
----
 language: ruby
 rvm:
 - 2.0.0
@@ -10,9 +9,16 @@ notifications:
         qSlvq03iTsRnflr6cgTwxAAf/kp/qiKDSAr6WgwYRiz6ly/mIczqxTAs1Coh
         eP0K3YVi0B3EutRp0kC2AJts73XIBynis75Iosi6+nSGivKiQKg=
 before_script:
-  - sh -e /etc/init.d/xvfb start
+- sh -e /etc/init.d/xvfb start
 services:
-  - postgresql
+- postgresql
 env:
   global:
-    - DISPLAY=:99
+  - DISPLAY=:99
+deploy:
+  provider: heroku
+  api_key:
+    secure: tkYrAMiTLGF4oGOPjGpDrywgW2XvoLcUMoK6TdZD4Ae+pEM8YZDqYA2aHvdxZQgc2RVSOWmCwyTZYOc2YuLRARK8KvSNV7nOo+UuTpaEEBO61CI6P6Z0vAQObGcBDhdE7cCwbnrf015lLRzV/bJvC5mHj2V1DaJ5AOjiGpIJtrA=
+  app: stark-reef-9813
+  on:
+    repo: holderdeord/hdo-saksmodell
