@@ -32,3 +32,7 @@ task :recreate do
   sh "dropdb", "hdo-saksmodell"
   sh "createdb", "hdo-saksmodell"
 end
+
+task :default do
+  puts "ok"
+end
