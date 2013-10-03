@@ -1,4 +1,12 @@
+---
 language: ruby
 rvm:
-  - 2.0.0
+- 2.0.0
 before_script: export DISPLAY=:99
+notifications:
+  hipchat:
+    rooms:
+    - secure: |-
+        cBtl/pCzXRC37Oj3qg8436swGE8xRAZ1QVZIesRTn6E/jIERV0wusg68Gauw
+        qSlvq03iTsRnflr6cgTwxAAf/kp/qiKDSAr6WgwYRiz6ly/mIczqxTAs1Coh
+        eP0K3YVi0B3EutRp0kC2AJts73XIBynis75Iosi6+nSGivKiQKg=
