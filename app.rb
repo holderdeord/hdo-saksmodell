@@ -5,10 +5,8 @@ require './database'
 
 set :public_folder, File.expand_path("../public", __FILE__)
 set :start_time, Time.now
-set :db, Database.new
-
-configure do
-end
+set :log, Logger.new(STDOUT)
+set :db, Database.new(logger: settings.log)
 
 get '/' do
   erb :index
@@ -24,14 +22,43 @@ get '/issues/:slug' do |slug|
   settings.db.get(slug).to_json
 end
 
+post '/issues/:slug' do |slug|
+  content_type :json
+
+  data = json_body
+
+  if data['slug'] =~ /(.+)-v(\d+)$/
+    slug, version = $1, $2.to_i
+    data['slug'] = "#{slug}-v#{version + 1}"
+  else
+    data['slug'] << '-v1'
+  end
+
+  settings.db.insert(data)
+
+  {success: true, slug: data['slug']}.to_json
+end
+
 put '/issues/:slug' do |slug|
   content_type :json
-  settings.db.save(JSON.parse(request.body)).to_json
+
+  data = json_body
+  settings.db.update(data)
+  settings.log.info "saved: #{data.inspect}"
+
+  {success: true}.to_json
+end
+
+get '/reimport' do
+  settings.db.clear if params[:clear]
+  settings.db.import
+
+  redirect '/'
 end
 
 helpers do
-  def issue()
-
+  def json_body
+    JSON.parse(request.body.read)
   end
 
   def revision

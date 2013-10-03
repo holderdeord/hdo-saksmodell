@@ -13,11 +13,15 @@ function AppController($scope, $http){
     }
   }
 
-  $scope.spinner(true);
-  $http.get('/issues').then(function (response) {
-    $scope.issueNames = response.data;
-    $scope.spinner(false);
-  })
+  $scope.updateIssueNames = function () {
+    $scope.spinner(true);
+    $http.get('/issues').then(function (response) {
+      $scope.issueNames = response.data;
+      $scope.spinner(false);
+    })
+  }
+
+  $scope.updateIssueNames();
 
   $scope.openIssue = function (name) {
     $scope.issue = null;
@@ -25,6 +29,16 @@ function AppController($scope, $http){
     $http.get('/issues/' + name).then(function (response) {
       $scope.issue = response.data.data;
       $scope.spinner(false);
+    })
+  }
+
+  $scope.saveIssue = function (copy) {
+    $scope.spinner(true);
+    $http({method: copy ? 'POST' : 'PUT', url: '/issues/' + $scope.issue.slug, data: $scope.issue}).then(function (response) {
+      console.log(response)
+      $scope.spinner(false);
+      // TODO: $scope.message = 'ok'
+      $scope.updateIssueNames();
     })
   }
 

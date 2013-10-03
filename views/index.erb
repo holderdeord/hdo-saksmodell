@@ -1,12 +1,13 @@
 <div ng-controller="AppController">
-  <ul ng-repeat="name in issueNames">
-    <li><a ng-click="openIssue(name)" href="#">{{name}}</a></li>
+  <ul>
+    <li ng-repeat="name in issueNames" class="{{issue && issue.slug == name && 'active'}}"><a ng-click="openIssue(name)" href="#">{{name}}</a></li>
   </ul>
 
   <div ng-show="issue">
     <hr>
 
-    <input type="button" ng-click="save(issue)" style="float: right;" value="Lagre">
+    <input type="button" ng-click="saveIssue(true)" style="float: right;" value="Lagre kopi">
+    <input type="button" ng-click="saveIssue(false)" style="float: right;" value="Lagre">
 
     <h2>{{issue.title}}</h2>
     <p>{{issue.description}}</p>

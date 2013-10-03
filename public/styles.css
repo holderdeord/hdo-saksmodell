@@ -287,3 +287,4 @@ footer {
 }
 
 #spinner { float: right; display: none; }
+li.active > a { font-weight: bold; }
