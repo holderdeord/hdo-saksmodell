@@ -1,6 +1,15 @@
 require 'rake'
 require 'open3'
 
+begin
+  require 'jasmine'
+  load 'jasmine/tasks/jasmine.rake'
+rescue LoadError
+  task :jasmine do
+    abort "Jasmine is not available. In order to run jasmine, you must: (sudo) gem install jasmine"
+  end
+end
+
 task :import do
   id     = Integer(ENV.fetch('ISSUE_ID'))
   dir    = ENV['HDO_SITE_PATH'] || File.expand_path("../../hdo-site", __FILE__)
@@ -33,6 +42,4 @@ task :recreate do
   sh "createdb", "hdo-saksmodell"
 end
 
-task :default do
-  puts "ok"
-end
+task :default => %[jasmine:ci]
