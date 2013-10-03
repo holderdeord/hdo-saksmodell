@@ -5,6 +5,8 @@ gem 'pg'
 gem 'sequel'
 gem 'rake'
 gem 'puma'
+gem "pry"
+
 
 group :development do
   gem "shotgun"

@@ -26,15 +26,19 @@ class Database
     @db[:issues]
   end
 
+  def delete(slug)
+    @db[:issues].where(:slug => slug).delete
+  end
+
   def insert(issue)
     @db[:issues].insert(:slug => issue['slug'], :data => Sequel.pg_json(issue))
   end
 
   def update(issue)
-    get(issue['slug']).update(:slug => issue['slug'], :data => Sequel.pg_json(issue))
+    @db[:issues].where('slug = ?', issue['slug']).update(:slug => issue['slug'], :data => Sequel.pg_json(issue))
   end
 
   def get(slug)
-    @db[:issues].where('slug = ?', slug).first
+    @db[:issues].where(:slug => slug).first
   end
 end

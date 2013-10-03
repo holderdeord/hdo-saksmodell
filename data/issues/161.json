@@ -1580,6 +1580,7 @@
   "valence_issue_explanations": [
     {
       "explanation": "Har stemt for å øke bevilgningene til jernbaneinvesteringer med totalt 3,2 mrd. kr (ca. 50 %) i perioden 2009-2013, og mot å opprette fond",
+      "id": 143,
       "issue_id": 161,
       "priority": 1,
       "title": "Stemt for ca. 50 % økning over statsbudsjettet",
@@ -1600,6 +1601,7 @@
     },
     {
       "explanation": "Har stemt i sine alternative statsbudsjett for høyere bevilgninger enn regjeringen, senest ca. 500 mill. kr mer i 2013, og mot å opprette fond",
+      "id": 144,
       "issue_id": 161,
       "priority": 2,
       "title": "Stemt for å øke bevilgningene noe mer enn regjeringen",
@@ -1612,6 +1614,7 @@
     },
     {
       "explanation": "Har stemt for å opprette et infrastrukturfond til vedlikehold av vei og jernbane på 50 mrd. kr",
+      "id": 145,
       "issue_id": 161,
       "priority": 3,
       "title": "Stemt for å opprette infrastrukturfond på 50 mrd. kr",
@@ -1624,6 +1627,7 @@
     },
     {
       "explanation": "Har stemt for å opprette et infrastrukturfond for vei og jernbane på 50 mrd. kr, og gjentatte ganger for å øke bevilgningene over statsbudsjettet med mer enn regjeringen",
+      "id": 146,
       "issue_id": 161,
       "priority": 4,
       "title": "Stemt for å opprette infrastrukturfond på 50 mrd. kr",
@@ -1636,6 +1640,7 @@
     },
     {
       "explanation": "Har stemt for å opprette fond for utbygging av jernbane, senest på 100 mrd. kr i 2013",
+      "id": 147,
       "issue_id": 161,
       "priority": 5,
       "title": "Stemt for å opprette fond på 100 mrd. kr",

@@ -1,4 +1,6 @@
 <div ng-controller="AppController">
+  <div id="message">{{message}}</div>
+
   <ul>
     <li ng-repeat="name in issueNames" class="{{issue && issue.slug == name && 'active'}}"><a ng-click="openIssue(name)" href="#">{{name}}</a></li>
   </ul>
@@ -6,6 +8,7 @@
   <div ng-show="issue">
     <hr>
 
+    <input type="button" ng-click="deleteIssue(false)" style="float: right;" value="Slett">
     <input type="button" ng-click="saveIssue(true)" style="float: right;" value="Lagre kopi">
     <input type="button" ng-click="saveIssue(false)" style="float: right;" value="Lagre">
 
@@ -29,7 +32,8 @@
           <td>{{position.title}}</td>
           <td>{{position.explanation}}</td>
           <td>
-            <p>{{getPartyList(position)}} <strong>vs</strong> {{getCalculatedPartyList(position)}}</p>
+            <p><strong>Før:</strong> {{getPartyList(position)}}</p>
+            <p><strong>Nå:</strong> {{getCalculatedPartyList(position)}}</p>
           </td>
           <td>{{getVoteCountForPosition(position)}}</td>
         </tr>
@@ -52,7 +56,7 @@
           <td>{{vote.vote.time | date}}</td>
           <td>{{vote.title}}</td>
           <td>
-            <select ng-model="vote.position" ng-options="position.title for position in getPositions(issue)">
+            <select ng-model="vote.position_id" ng-options="position.id as position.title for position in getPositions(issue)">
               <option value="">--velg posisjon--</option>
             </select>
           </td>

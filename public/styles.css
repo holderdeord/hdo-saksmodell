@@ -286,5 +286,6 @@ footer {
   }
 }
 
-#spinner { float: right; display: none; }
+#spinner { float: right; display: none;}
+#message { float:right; font-weight: bold;}
 li.active > a { font-weight: bold; }

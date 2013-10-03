@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'sequel'
 require 'logger'
+require 'pry'
 require './database'
 
 set :public_folder, File.expand_path("../public", __FILE__)
@@ -25,18 +26,16 @@ end
 post '/issues/:slug' do |slug|
   content_type :json
 
-  data = json_body
-
-  if data['slug'] =~ /(.+)-v(\d+)$/
-    slug, version = $1, $2.to_i
-    data['slug'] = "#{slug}-v#{version + 1}"
-  else
-    data['slug'] << '-v1'
-  end
-
+  data = json_body.merge('slug' => slug)
   settings.db.insert(data)
 
   {success: true, slug: data['slug']}.to_json
+end
+
+delete '/issues/:slug' do |slug|
+  settings.db.delete(slug)
+
+  {success: true}.to_json
 end
 
 put '/issues/:slug' do |slug|
@@ -44,7 +43,6 @@ put '/issues/:slug' do |slug|
 
   data = json_body
   settings.db.update(data)
-  settings.log.info "saved: #{data.inspect}"
 
   {success: true}.to_json
 end

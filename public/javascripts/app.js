@@ -26,6 +26,7 @@ function AppController($scope, $http){
   $scope.openIssue = function (name) {
     $scope.issue = null;
     $scope.spinner(true);
+
     $http.get('/issues/' + name).then(function (response) {
       $scope.issue = response.data.data;
       $scope.spinner(false);
@@ -33,11 +34,29 @@ function AppController($scope, $http){
   }
 
   $scope.saveIssue = function (copy) {
+    var newSlug, method;
+
+    if (copy) {
+      newSlug = $scope.issue.slug + ' ' + prompt('Nytt navn (kopi):', 'kopi');
+      method = 'POST';
+    } else {
+      newSlug = $scope.issue.slug;
+      method = 'PUT';
+    }
     $scope.spinner(true);
-    $http({method: copy ? 'POST' : 'PUT', url: '/issues/' + $scope.issue.slug, data: $scope.issue}).then(function (response) {
-      console.log(response)
+
+    $http({method: method, url: '/issues/' + newSlug, data: $scope.issue}).then(function (response) {
       $scope.spinner(false);
-      // TODO: $scope.message = 'ok'
+      $scope.updateIssueNames();
+    })
+  }
+
+  $scope.deleteIssue = function () {
+    $scope.spinner(true);
+
+    $http({method: 'DELETE', url: '/issues/' + $scope.issue.slug}).then(function (response) {
+      $scope.issue = null;
+      $scope.spinner(false);
       $scope.updateIssueNames();
     })
   }
@@ -47,19 +66,7 @@ function AppController($scope, $http){
   }
 
   $scope.getVoteCountForPosition = function (position) {
-    return $scope.getVotesForPosition(position).length;
-  }
-
-  $scope.getVotesForPosition = function (position) {
-    var result = [];
-
-    angular.forEach($scope.issue.vote_connections, function (vc) {
-      if (vc.position == position) {
-        result.push(vc);
-      }
-    });
-
-    return result;
+    return new PositionCalculator($scope.issue).getVotesForPosition(position).length;
   }
 
   $scope.getVotes = function (issue) {
@@ -79,19 +86,7 @@ function AppController($scope, $http){
   }
 
   $scope.getCalculatedPartyList = function (position) {
-    var votes = $scope.getVotesForPosition(position).map(function (vc) { return vc.vote; })
-    var result = [];
-
-    angular.forEach(votes, function (vote) {
-      angular.forEach(vote.stats.parties, function (stats, partyName) {
-        var againstCount = stats.against || 0;
-        var forCount = stats.for || 0;
-
-        if(forCount > againstCount && result.indexOf(partyName) == -1) {
-          result.push(partyName);
-        }
-      });
-    });
+    var result = new PositionCalculator($scope.issue).getPartyNamesForPosition(position);
 
     return result.length ? result.sort().join(',') : '???';
   }
