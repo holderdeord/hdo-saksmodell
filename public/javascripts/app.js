@@ -93,7 +93,7 @@ function AppController($scope, $http){
   }
 
   $scope.createPosition = function () {
-    $scope.newPosition = {parties: [], id: generateId()};
+    $scope.newPosition = {parties: [], id: guid()};
   }
 
   $scope.saveNewPosition = function () {
@@ -127,10 +127,13 @@ function AppController($scope, $http){
   }
 }
 
+function s4() {
+  return Math.floor((1 + Math.random()) * 0x10000)
+             .toString(16)
+             .substring(1);
+};
 
-function generateId() {
-  return Math.random().toString(36).substr(2)
-      + Math.random().toString(36).substr(2)
-      + Math.random().toString(36).substr(2)
-      + Math.random().toString(36).substr(2);
+function guid() {
+  return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+         s4() + '-' + s4() + s4() + s4();
 }
