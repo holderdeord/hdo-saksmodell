@@ -1,7 +1,8 @@
-angular.module('app', ['ngResource', 'ngHttp']);
+app = angular.module('app', ['ngResource', 'ngHttp']);
 
 function AppController($scope, $http){
   $scope.issue = null;
+  $scope.newPosition = null;
 
   $scope.spinner = function (show) {
     var el = document.getElementById('spinner');
@@ -90,4 +91,46 @@ function AppController($scope, $http){
 
     return result.length ? result.sort().join(',') : '???';
   }
+
+  $scope.createPosition = function () {
+    $scope.newPosition = {parties: [], id: generateId()};
+  }
+
+  $scope.saveNewPosition = function () {
+    $scope.issue.valence_issue_explanations.unshift($scope.newPosition);
+    $scope.newPosition = null;
+  }
+
+  $scope.deletePosition = function (id) {
+    if (!confirm("Sikker?")) {
+      return;
+    }
+
+    var positions = $scope.issue.valence_issue_explanations;
+    var result = [];
+
+    // remove position
+    angular.forEach(positions, function (pos) {
+      if (pos.id != id) {
+        result.push(pos)
+      }
+    });
+
+    // remove from vote connections
+    angular.forEach($scope.issue.vote_connections, function (vc) {
+      if(vc.position_id == id) {
+        vc.position_id = null;
+      }
+    });
+
+    $scope.issue.valence_issue_explanations = result;
+  }
+}
+
+
+function generateId() {
+  return Math.random().toString(36).substr(2)
+      + Math.random().toString(36).substr(2)
+      + Math.random().toString(36).substr(2)
+      + Math.random().toString(36).substr(2);
 }

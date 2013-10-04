@@ -1,0 +1,16 @@
+<div class="form" ng-show="newPosition">
+  <p>
+    <label>Tittel</label>
+    <input ng-model="newPosition.title" type="text" value="">
+  </p>
+
+  <p>
+    <label>Kommentar</label>
+    <textarea ng-model="newPosition.explanation"></textarea>
+  </p>
+
+  <p>
+    <input type="button" ng-click="saveNewPosition()" value="Legg til">
+  </p>
+</div>
+

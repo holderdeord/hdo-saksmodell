@@ -1,0 +1,24 @@
+<h3>Avstemninger</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="min-width: 84px;">Dato</th>
+      <th>Tittel</th>
+      <th>Koble til..</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr ng-repeat="vote in getVotes(issue)">
+      <td>{{vote.vote.time | date}}</td>
+      <td>{{vote.title}}</td>
+      <td>
+        <select ng-model="vote.position_id" ng-options="position.id as position.title for position in getPositions(issue)">
+          <option value="">--velg posisjon--</option>
+        </select>
+      </td>
+    </tr>
+  </tbody>
+</table>
+

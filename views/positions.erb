@@ -1,0 +1,32 @@
+<h3>
+  Posisjoner
+  <input type="button" value="Ny" ng-click="createPosition()">
+</h3>
+
+<%= erb :position_form %>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tittel/kommentar</th>
+      <th>Partier</th>
+      <th>Koblede avstemninger</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr ng-repeat="position in getPositions(issue)">
+      <td>
+        <p>{{position.title}}</p>
+        <small>{{position.explanation}}</small>
+      </td>
+      <td>
+        <p><strong>Før:</strong> {{getPartyList(position)}}</p>
+        <p><strong>Nå:</strong> {{getCalculatedPartyList(position)}}</p>
+      </td>
+      <td>{{getVoteCountForPosition(position)}}</td>
+      <td><input type="button" ng-click="deletePosition(position.id)" value="Slett"></td>
+    </tr>
+  </tbody>
+</table>
